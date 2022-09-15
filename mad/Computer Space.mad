@@ -13,7 +13,7 @@
   <manufacturer>Syzygy Engineering</manufacturer>
   <category>Shooter - Multidirectional</category>
   <rotation>horizontal</rotation>
-  <flip/>
+  <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>1</players>
   <move_inputs>2-way horizontal</move_inputs>

@@ -13,7 +13,7 @@
   <manufacturer>Williams,Vid Kidz</manufacturer>
   <category>Arena</category>
   <rotation>horizontal</rotation>
-  <flip/>
+  <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>1</players>
   <move_inputs>8-way</move_inputs>

@@ -2,7 +2,7 @@
   <setname>astdeluxe</setname>
   <name>Asteroids Deluxe (Rev 3)</name>
   <region/>
-  <version/>
+  <version>Rev 3</version>
   <alternative>no</alternative>
   <parent_title/>
   <platform/>
@@ -13,7 +13,7 @@
   <manufacturer>Atari</manufacturer>
   <category>Shooter - Multidirectional</category>
   <rotation>horizontal</rotation>
-  <flip/>
+  <flip>no</flip>
   <resolution>31kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>

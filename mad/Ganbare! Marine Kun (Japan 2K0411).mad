@@ -16,7 +16,7 @@
   <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>1</players>
-  <move_inputs>2-way (horizontal)</move_inputs>
+  <move_inputs>2-way horizontal</move_inputs>
   <special_controls/>
   <num_buttons>2</num_buttons>
 </misterarcadedescription>

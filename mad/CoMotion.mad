@@ -18,5 +18,5 @@
   <players>4 (simultaneous)</players>
   <move_inputs>4-way</move_inputs>
   <special_controls/>
-  <num_buttons/>
+  <num_buttons>0</num_buttons>
 </misterarcadedescription>

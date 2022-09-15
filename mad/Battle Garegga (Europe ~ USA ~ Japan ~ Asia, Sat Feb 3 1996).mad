@@ -1,10 +1,7 @@
 <misterarcadedescription>
   <setname>bgaregga</setname>
   <name>Battle Garegga (Europe ~ USA ~ Japan ~ Asia, Sat Feb 3 1996)</name>
-  <region>Europe</region>
-  <region>USA</region>
-  <region>Japan</region>
-  <region>Asia</region>
+  <region>Europe,USA,Japan,Asia</region>
   <version>Sat Feb 3 1996</version>
   <alternative>no</alternative>
   <parent_title/>

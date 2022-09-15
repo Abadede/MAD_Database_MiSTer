@@ -1,8 +1,7 @@
 <misterarcadedescription>
   <setname>bgareggahk</setname>
   <name>Battle Garegga (Austria ~ Hong Kong, Sat Feb 3 1996)</name>
-  <region>Austria</region>
-  <region>Hong Kong</region>
+  <region>Austria,Hong Kong</region>
   <version>Sat Feb 3 1996</version>
   <alternative>yes</alternative>
   <parent_title>Battle Garegga</parent_title>

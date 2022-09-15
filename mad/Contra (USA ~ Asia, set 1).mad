@@ -1,8 +1,7 @@
 <misterarcadedescription>
   <setname>contra</setname>
   <name>Contra (USA ~ Asia, set 1)</name>
-  <region>USA</region>
-  <region>Asia</region>
+  <region>USA,Asia</region>
   <version>set 1</version>
   <alternative>no</alternative>
   <parent_title/>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>trackfldc</setname>
+  <name>Track &amp; Field (Centuri)</name>
+  <region>USA</region>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Track &amp; Field</parent_title>
+  <platform>Konami M6809</platform>
+  <series>Track &amp; Field</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Konami,Centuri</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (alternating),2 (simultaneous)</players>
+  <move_inputs>Only buttons</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

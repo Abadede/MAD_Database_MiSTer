@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mslug3a</setname>
+  <name>Metal Slug 3 (NGM-2560, earlier)</name>
+  <region/>
+  <version>NGM-2560</version>
+  <alternative>yes</alternative>
+  <parent_title>Metal Slug 3</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Metal Slug</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2000</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sargex</setname>
+  <name>Sarge Exposed [hb]</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Sarge</parent_title>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Gatinho</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip/>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way vertical</move_inputs>
+  <special_controls>twin stick</special_controls>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

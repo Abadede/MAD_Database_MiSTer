@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gyruss</setname>
-   <alternative>no</alternative>
-   <name>Gyruss</name>
-   <year>1983</year>
-   <category>Space</category>
-   <manufacturer>Konami</manufacturer>
+  <setname>gyruss</setname>
+  <name>Gyruss</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Shooter - Tube</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

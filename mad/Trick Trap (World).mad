@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>tricktrp</setname>
-   <alternative>no</alternative>
-   <name>Trick Trap (World?)</name>
-   <year>1987</year>
-   <category>Shooter</category>
-   <manufacturer>Konami</manufacturer>
+  <setname>tricktrp</setname>
+  <name>Trick Trap (World)</name>
+  <region>World</region>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

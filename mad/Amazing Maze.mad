@@ -1,15 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>maze</setname>
-   <alternative>no</alternative>
-   <name>Amazing Maze</name>
-   <resolution>15kHz</resolution>
-   <year>1976</year>
-   <category>Maze</category>
-   <manufacturer>Midway</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>0</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>maze</setname>
+  <name>Amazing Maze</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1976</year>
+  <manufacturer>Midway</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>0</num_buttons>
 </misterarcadedescription>

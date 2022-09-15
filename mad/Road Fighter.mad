@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>roadf</setname>
+  <name>Road Fighter</name>
+  <region/>
+  <version>Set 1</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series>Road Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Racing</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>meteorbl</setname>
+  <name>Meteor (bootleg of Asteroids)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Asteroids</parent_title>
+  <platform/>
+  <series>Asteroids</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1979</year>
+  <manufacturer>bootleg</manufacturer>
+  <category/>
+  <category>Shooter - Multidirectional</category>
+  <flip>no</flip>
+  <resolution/>
+  <players>2 (alternating)</players>
+  <move_inputs>Only buttons</move_inputs>
+  <special_controls/>
+  <num_buttons>5</num_buttons>
+</misterarcadedescription>

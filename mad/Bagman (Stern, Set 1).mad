@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>bagmans</setname>
+  <name>Bagman (Stern, Set 1)</name>
+  <region/>
+  <version>Stern, Set 1</version>
+  <alternative>yes</alternative>
+  <parent_title>Bagman</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1982</year>
+  <manufacturer>Valadon Automation,Stern</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

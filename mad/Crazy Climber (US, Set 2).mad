@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>cclimbera</setname>
+  <name>Crazy Climber (US, Set 2)</name>
+  <region>USA</region>
+  <version>Set 2</version>
+  <alternative>yes</alternative>
+  <parent_title>Crazy Climber</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1980</year>
+  <manufacturer>Nichibutsu</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls>twin stick</special_controls>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

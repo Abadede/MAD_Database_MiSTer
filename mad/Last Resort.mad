@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>lresort</setname>
+  <name>Last Resort</name>
+  <region/>
+  <version>NGM-024 (MVS), NGH-024 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1992</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

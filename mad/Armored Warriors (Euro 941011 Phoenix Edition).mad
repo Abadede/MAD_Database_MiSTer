@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>armwar1d</setname>
+  <name>Armored Warriors (Euro 941011 Phoenix Edition)</name>
+  <region>Europe</region>
+  <version>941011 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Armored Warriors</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1994</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

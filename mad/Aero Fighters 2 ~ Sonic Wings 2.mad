@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sonicwi2</setname>
+  <name>Aero Fighters 2 ~ Sonic Wings 2</name>
+  <region/>
+  <version>NGM-075 (MVS), NGH-075 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Aero Fighters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Video System Co.</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

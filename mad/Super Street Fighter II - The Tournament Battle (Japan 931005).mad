@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ssf2tbj</setname>
+  <name>Super Street Fighter II - The Tournament Battle (Japan 931005)</name>
+  <region>Japan</region>
+  <version>931005</version>
+  <alternative>yes</alternative>
+  <parent_title>Super Street Fighter II - The New Challengers</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

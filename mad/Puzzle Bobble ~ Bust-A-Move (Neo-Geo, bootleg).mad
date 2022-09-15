@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>pbobblenb</setname>
+  <name>Puzzle Bobble ~ Bust-A-Move (Neo-Geo, bootleg)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Puzzle Bobble ~ Bust-A-Move</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Puzzle Bobble</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1994</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

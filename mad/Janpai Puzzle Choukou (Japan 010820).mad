@@ -1,13 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>choko</setname>
-   <alternative>no</alternative>
-   <name>Janpai Puzzle Choukou (Japan 010820)</name>
-   <region>Japan</region>
-   <year>2001</year>
-   <category>Puzzle</category>
-   <manufacturer>Mitchell</manufacturer>
-   <platform>CPS-2</platform>
-   <players>1</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>choko</setname>
+  <name>Janpai Puzzle Choukou (Japan 010820)</name>
+  <region>Japan</region>
+  <version>010820</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2001</year>
+  <manufacturer>Mitchell,Capcom</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

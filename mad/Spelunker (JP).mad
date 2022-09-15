@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>spelunkrj</setname>
+  <name>Spelunker (JP)</name>
+  <region>Japan</region>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Spelunker</parent_title>
+  <platform>Irem M62</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Irem,Broderbund</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

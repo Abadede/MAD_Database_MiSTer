@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sgemfa</setname>
+  <name>Super Gem Fighter - Mini Mix (Asia 970904)</name>
+  <region>Asia</region>
+  <version>970904</version>
+  <alternative>yes</alternative>
+  <parent_title>Super Gem Fighter Mini Mix</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1997</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>batcird</setname>
+  <name>Battle Circuit (Euro 970319 Phoenix Edition)</name>
+  <region>Europe</region>
+  <version>970319 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Battle Circuit</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1997</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

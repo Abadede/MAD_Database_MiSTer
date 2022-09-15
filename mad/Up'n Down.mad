@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>upndown</setname>
-   <alternative>no</alternative>
-   <name>Up'n Down</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <year>1984</year>
-   <category>Racing</category>
-   <manufacturer>Sega</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Sega System 1</platform>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>upndown</setname>
+  <name>Up'n Down</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Racing</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

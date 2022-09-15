@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>tokisens</setname>
+  <name>Toki no Senshi - Chrono Soldier [MC-8123, 317-0040]</name>
+  <region/>
+  <version>MC-8123, 317-0040</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

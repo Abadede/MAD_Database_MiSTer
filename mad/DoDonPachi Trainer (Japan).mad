@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ddonpach</setname>
-   <alternative>no</alternative>
-   <name>DoDonPachi (Japan)</name>
-   <year>1997</year>
-   <category>Shooter</category>
-   <manufacturer>CAVE</manufacturer>
+  <setname>ddonpach_1</setname>
+  <name>DoDonPachi Trainer (Japan)</name>
+  <region>Japan</region>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>DoDonPachi</parent_title>
+  <platform>Cave 68000</platform>
+  <series>DonPachi</series>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>2012</year>
+  <manufacturer>hack</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

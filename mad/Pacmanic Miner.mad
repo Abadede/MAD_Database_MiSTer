@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname/>
+  <name>Pacmanic Miner</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Pac-Man</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1980</year>
+  <manufacturer>Jim Bagley</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>0</num_buttons>
+</misterarcadedescription>

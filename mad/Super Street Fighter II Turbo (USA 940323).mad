@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ssf2tu</setname>
+  <name>Super Street Fighter II Turbo (USA 940323)</name>
+  <region>USA</region>
+  <version>940323</version>
+  <alternative>yes</alternative>
+  <parent_title>Super Street Fighter II Turbo</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kizuna4p</setname>
+  <name>Kizuna Encounter - Super Tag Battle 4 Way Battle Version ~ Fu'un Super Tag Battle Special Version</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Kizuna Encounter - Super Tag Battle ~ Fu'un Super Tag Battle</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Savage Reign</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1996</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (alternating) / 2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

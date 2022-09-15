@@ -1,13 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>kingdmgp</setname>
-   <alternative>no</alternative>
-   <name>Kingdom Grandprix</name>
-   <region>World</region>
-   <year>1994</year>
-   <category>Shoot'em up</category>
-   <manufacturer>Raizing / Eighting</manufacturer>
-   <platform>Toaplan 2</platform>
-   <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>kingdmgp</setname>
+  <name>Kingdom Grandprix</name>
+  <region/>
+  <version>Kingdom Grandprix</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Toaplan Version 2</platform>
+  <series>Mahou Daisakusen</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Raizing,Eighting</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

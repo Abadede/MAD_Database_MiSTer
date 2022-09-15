@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>xevious5</setname>
+  <name>Xevious 2005 [hb]</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Xevious</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>1982</year>
+  <manufacturer>Namco</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

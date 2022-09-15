@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>moshougi</setname>
+  <name>Shougi no Tatsujin - Master of Shougi</name>
+  <region/>
+  <version>NGM-203 / ADM-010 (MVS), NGH-203 / ADH-010 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1995</year>
+  <manufacturer>ADK,SNK</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

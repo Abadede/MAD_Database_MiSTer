@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>gigawingd</setname>
+  <name>Giga Wing (USA 990222 Phoenix Edition)</name>
+  <region>USA</region>
+  <version>990222 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Giga Wing</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1999</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

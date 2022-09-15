@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>dimahoud</setname>
+  <name>Dimahoo (USA 000121 Phoenix Edition)</name>
+  <region>USA</region>
+  <version>000121 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Dimahoo</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Mahou Daisakusen</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>2000</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

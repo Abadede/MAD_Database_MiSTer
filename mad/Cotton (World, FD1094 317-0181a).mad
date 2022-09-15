@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>cotton</setname>
+  <name>Cotton (World, FD1094 317-0181a)</name>
+  <region>World</region>
+  <version>FD1094 317-0181a</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series>Cotton</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>Success,Sega</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

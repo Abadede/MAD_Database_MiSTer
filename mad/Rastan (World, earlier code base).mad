@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>rastanb</setname>
+  <name>Rastan (World, earlier code base)</name>
+  <region>World</region>
+  <version>Earlier code base</version>
+  <alternative>yes</alternative>
+  <parent_title>Rastan</parent_title>
+  <platform/>
+  <series>Rastan</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Taito</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

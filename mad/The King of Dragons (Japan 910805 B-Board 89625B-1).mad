@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kodja</setname>
+  <name>The King of Dragons (Japan 910805 B-Board 89625B-1)</name>
+  <region>Japan</region>
+  <version>910805 B-Board 89625B-1</version>
+  <alternative>yes</alternative>
+  <parent_title>The King of Dragons</parent_title>
+  <platform>Capcom CPS-1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

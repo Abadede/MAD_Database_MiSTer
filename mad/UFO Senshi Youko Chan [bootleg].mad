@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ufosensib</setname>
+  <name>UFO Senshi Youko Chan [bootleg]</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>UFO Senshi Youko Chan</parent_title>
+  <platform>Sega System 1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1988</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

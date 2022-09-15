@@ -1,11 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>exedexes</setname>
-   <alternative>no</alternative>
-   <name>Exed Exes</name>
-   <region>World</region>
-   <year>1985</year>
-   <manufacturer>Capcom</manufacturer>
-   <players>2</players>
-   <move_inputs>joystick 8</move_inputs>
+  <setname>exedexes</setname>
+  <name>Exed Exes</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

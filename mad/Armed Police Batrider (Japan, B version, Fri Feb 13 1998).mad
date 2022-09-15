@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>batriderj</setname>
+  <name>Armed Police Batrider (Japan, B version, Fri Feb 13 1998)</name>
+  <region>Japan</region>
+  <version>B version, Fri Feb 13 1998</version>
+  <alternative>yes</alternative>
+  <parent_title>Armed Police Batrider</parent_title>
+  <platform>Toaplan Version 2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1998</year>
+  <manufacturer>Raizing,Eighting</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

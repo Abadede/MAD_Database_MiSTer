@@ -1,10 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>hyperspt</setname>
-   <alternative>no</alternative>
-   <name>Hyper Sports</name>
-   <region>World</region>
-   <year>1984</year>
-   <manufacturer>Konami (Centuri license)</manufacturer>
-   <players>4</players>
+  <setname>hyperspt</setname>
+  <name>Hyper Sports</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series>Track &amp; Field</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Centuri,Konami</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (alternating) / 2 (simultaneous)</players>
+  <move_inputs>Buttons only</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

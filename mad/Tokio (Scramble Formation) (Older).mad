@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>tokioo</setname>
+  <name>Tokio (Scramble Formation) (Older)</name>
+  <region/>
+  <version>Older</version>
+  <alternative>yes</alternative>
+  <parent_title>Scramble Formation</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Taito</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

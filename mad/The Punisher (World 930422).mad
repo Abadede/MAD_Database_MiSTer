@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>punisher</setname>
-   <alternative>no</alternative>
-   <name>The Punisher (World 930422)</name>
-   <year>1993</year>
-   <category>Beat 'em up</category>
-   <manufacturer>Capcom</manufacturer>
+  <setname>punisher</setname>
+  <name>The Punisher (World 930422)</name>
+  <region>World</region>
+  <version>930422</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1.5</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

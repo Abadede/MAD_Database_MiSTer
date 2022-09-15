@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>opaopa</setname>
+  <name>Opa Opa (MC-8123, 317-0042)</name>
+  <region/>
+  <version>MC-8123, 317-0042</version>
+  <alternative>yes</alternative>
+  <parent_title>Opa Opa</parent_title>
+  <platform>Sega System E</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

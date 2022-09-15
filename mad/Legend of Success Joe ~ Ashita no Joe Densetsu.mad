@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>legendos</setname>
+  <name>Legend of Success Joe ~ Ashita no Joe Densetsu</name>
+  <region/>
+  <version>NGM-029 (MVS), NGH-029 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Ashita no Joe</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>SNK,Wave</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>crsword</setname>
+  <name>Crossed Swords (ALM-002 ~ ALH-002)</name>
+  <region/>
+  <version>NGM-037 / ALM-002 (MVS), NGH-037 / ALH-002 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Crossed Swords</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>Alpha Denshi</manufacturer>
+  <category>Action</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>samsho5a</setname>
+  <name>Samurai Shodown V ~ Samurai Spirits Zero (NGM-2700, set 2)</name>
+  <region/>
+  <version>NGM-2700</version>
+  <alternative>yes</alternative>
+  <parent_title>Samurai Shodown V ~ Samurai Spirits Zero</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Samurai Shodown</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2003</year>
+  <manufacturer>Yuki Enterprise,SNK Playmore</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

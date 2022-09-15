@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>spf2xjd</setname>
+  <name>Super Puzzle Fighter II X (Japan 960531 Phoenix Edition)</name>
+  <region>Japan</region>
+  <version>960531 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Super Puzzle Fighter II Turbo</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1996</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

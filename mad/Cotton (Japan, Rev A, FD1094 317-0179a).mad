@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>cottonja</setname>
+  <name>Cotton (Rev A, FD1094 317-0179a)</name>
+  <region>Japan</region>
+  <version>Rev A, FD1094 317-0179a</version>
+  <alternative>yes</alternative>
+  <parent_title>Cotton</parent_title>
+  <platform>Sega System 16B</platform>
+  <series>Cotton</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>Success,Sega</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

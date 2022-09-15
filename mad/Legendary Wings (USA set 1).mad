@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>lwings</setname>
+  <name>Legendary Wings (USA set 1)</name>
+  <region>USA</region>
+  <version>Set 1</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

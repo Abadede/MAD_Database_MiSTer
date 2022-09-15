@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>dotrikun</setname>
+  <name>Dottori-Man Jr [hb]</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Dottori-Kun</platform>
+  <series/>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>Chris Covell</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

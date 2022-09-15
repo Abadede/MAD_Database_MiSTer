@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>sarge</setname>
-   <alternative>no</alternative>
-   <name>Sarge</name>
-   <resolution>15kHz</resolution>
-   <year>1985</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 2-way vertical</move_inputs>
-   <special_controls>twin stick</special_controls>
+  <setname>sarge</setname>
+  <name>Sarge</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way vertical</move_inputs>
+  <special_controls>twin stick</special_controls>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

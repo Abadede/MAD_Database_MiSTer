@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>lagunar</setname>
-   <alternative>no</alternative>
-   <name>Laguna Racer</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1977</year>
-   <category>Racing</category>
-   <manufacturer>Midway</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>0</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 2-way vertical</move_inputs>
-   <special_controls>spinner</special_controls>
+  <setname>lagunar</setname>
+  <name>Laguna Racer</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1977</year>
+  <manufacturer>Midway</manufacturer>
+  <category>Racing</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>2-way vertical</move_inputs>
+  <special_controls>spinner</special_controls>
+  <num_buttons>0</num_buttons>
 </misterarcadedescription>

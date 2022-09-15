@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>timber</setname>
-   <alternative>no</alternative>
-   <name>Timber</name>
-   <resolution>15kHz</resolution>
-   <year>1983</year>
-   <category>Action</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 4-way</move_inputs>
+  <setname>timber</setname>
+  <name>Timber</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Action</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

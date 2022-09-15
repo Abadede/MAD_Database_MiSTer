@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wb3</setname>
+  <name>Wonder Boy III - Monster Lair (World, 8751 317-0098)</name>
+  <region>World</region>
+  <version>8751 317-0098</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series>Wonder Boy</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Sega,Westone</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

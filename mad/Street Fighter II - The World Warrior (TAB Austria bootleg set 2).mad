@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sf2stt</setname>
+  <name>Street Fighter II - The World Warrior (TAB Austria bootleg set 2)</name>
+  <region/>
+  <version>TAB Austria bootleg set 2</version>
+  <alternative>yes</alternative>
+  <parent_title>Street Fighter II - The World Warrior</parent_title>
+  <platform>Capcom CPS-1</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1992</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

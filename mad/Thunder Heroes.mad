@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>theroes</setname>
-   <alternative>no</alternative>
-   <name>Thunder Heroes</name>
-   <year>2001</year>
-   <category>Fighting</category>
-   <manufacturer>CAVE</manufacturer>
+  <setname>theroes</setname>
+  <name>Thunder Heroes</name>
+  <region/>
+  <version>Thunder Heroes</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Cave 68000</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2001</year>
+  <manufacturer>Primetek Investments</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
 </misterarcadedescription>

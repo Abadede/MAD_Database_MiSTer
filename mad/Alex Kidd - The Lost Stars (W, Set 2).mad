@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>alexkidd</setname>
+  <name>Alex Kidd - The Lost Stars (W, Set 2)</name>
+  <region>World</region>
+  <version>Set 2, No Protection</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16A</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

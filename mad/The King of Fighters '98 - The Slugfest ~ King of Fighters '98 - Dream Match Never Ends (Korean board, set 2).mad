@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kof98ka</setname>
+  <name>The King of Fighters '98 - The Slugfest ~ King of Fighters '98 - Dream Match Never Ends (Korean board, set 2)</name>
+  <region>Korea</region>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>The King of Fighters '98 - The Slugfest ~ King of Fighters '98 - Dream Match Never Ends</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>The King of Fighters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1998</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

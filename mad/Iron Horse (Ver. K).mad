@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ironhors</setname>
-   <alternative>no</alternative>
-   <name>Iron Horse</name>
-   <flip>no</flip>
-   <resolution>15kHz</resolution>
-   <region>World</region>
-   <year>1986</year>
-   <category>Platformer</category>
-   <manufacturer>Konami</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>3</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>ironhors</setname>
+  <name>Iron Horse (Ver. K)</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

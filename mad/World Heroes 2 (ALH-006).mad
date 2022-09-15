@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wh2h</setname>
+  <name>World Heroes 2 (ALH-006)</name>
+  <region/>
+  <version>ALH-006</version>
+  <alternative>yes</alternative>
+  <parent_title>World Heroes 2</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>World Heroes</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>ADK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>aof2</setname>
+  <name>Art of Fighting 2 ~ Ryuuko no Ken 2 (NGM-056)</name>
+  <region/>
+  <version>NGM-056</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Art of Fighting</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

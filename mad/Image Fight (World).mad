@@ -1,11 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>imgfight</setname>
-   <alternative>no</alternative>
-   <name>Image Fight (World)</name>
-   <year>1988</year>
-   <category>Shooter</category>
-   <manufacturer>Irem</manufacturer>
-   <num_buttons>2</num_buttons>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>imgfight</setname>
+  <name>Image Fight (World)</name>
+  <region>World</region>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Irem M72</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>alpham2</setname>
+  <name>Alpha Mission II ~ ASO II - Last Guardian (NGM-007 ~ NGH-007)</name>
+  <region/>
+  <version>NGM-007 (MVS), NGH-007 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Alpha Mission</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>vindctr2</setname>
-   <alternative>no</alternative>
-   <name>Vindicators Part II</name>
-   <resolution>15kHz</resolution>
-   <year>1985</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Atari</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Vindicators</series>
-   <num_buttons>4</num_buttons>
-   <players>2 (simultaneous)</players>
-   <move_inputs>joystick 2-way vertical</move_inputs>
-   <special_controls>twin stick</special_controls>
+  <setname>vindctr2</setname>
+  <name>Vindicators Part II (Rev 3)</name>
+  <region/>
+  <version>Rev 3</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Vindicators</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way vertical</move_inputs>
+  <special_controls>twin stick</special_controls>
+  <num_buttons>4</num_buttons>
 </misterarcadedescription>

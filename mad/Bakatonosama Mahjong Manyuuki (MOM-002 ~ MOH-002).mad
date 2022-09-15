@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>bakatono</setname>
+  <name>Bakatonosama Mahjong Manyuuki (MOM-002 ~ MOH-002)</name>
+  <region/>
+  <version>NGM-036 / MOM-002 (MVS), NGH-036 / MOH-002 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>Monolith Corp.</manufacturer>
+  <category>Mahjong</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls>mahjong</special_controls>
+  <num_buttons>19</num_buttons>
+</misterarcadedescription>

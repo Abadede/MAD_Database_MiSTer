@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>1942w</setname>
+  <name>1942 (Williams)</name>
+  <region/>
+  <version>Williams</version>
+  <alternative>yes</alternative>
+  <parent_title>1942</parent_title>
+  <platform>Capcom CPS-0</platform>
+  <series>194X</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Capcom,Williams</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>matrim</setname>
+  <name>Matrimelee ~ Shin Gouketsuji Ichizoku Toukon (NGM-2660 ~ NGH-2660)</name>
+  <region/>
+  <version>NGM-2660 (MVS), NGM-2660 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Power Instinct</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2002</year>
+  <manufacturer>Noise Factory,Atlus</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

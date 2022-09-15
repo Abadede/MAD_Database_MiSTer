@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>quartet2a</setname>
+  <name>Quartet 2 (unprotected)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Quartet</parent_title>
+  <platform>segas16A</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

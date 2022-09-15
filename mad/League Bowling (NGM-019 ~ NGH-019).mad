@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>lbowling</setname>
+  <name>League Bowling (NGM-019 ~ NGH-019)</name>
+  <region/>
+  <version>NGM-019 (MVS), NGH-019 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (alternating) / 2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sengoku2</setname>
+  <name>Sengoku 2 ~ Sengoku Denshou 2</name>
+  <region/>
+  <version>NGM-040 (MVS), NGH-040 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Sengoku</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

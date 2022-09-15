@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>pbobbl2n</setname>
+  <name>Puzzle Bobble 2 ~ Bust-A-Move Again (Neo-Geo)</name>
+  <region/>
+  <version>NGM-2480</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Puzzle Bobble</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1999</year>
+  <manufacturer>Taito</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

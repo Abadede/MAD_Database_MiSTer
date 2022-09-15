@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>shinobls</setname>
+  <name>Shinobi (Star bootleg, System 16A)</name>
+  <region/>
+  <version>Star bootleg, System 16A</version>
+  <alternative>yes</alternative>
+  <parent_title>Shinobi</parent_title>
+  <platform>Sega System 16A</platform>
+  <series>Shinobi</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1987</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

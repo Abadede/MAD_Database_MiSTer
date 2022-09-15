@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>qadjr</setname>
+  <name>Quiz &amp; Dragons - Capcom Quiz Game (Japan Resale Ver. 940921)</name>
+  <region>Japan</region>
+  <version>Resale Ver. 940921</version>
+  <alternative>yes</alternative>
+  <parent_title>Quiz &amp; Dragons - Capcom Quiz Game</parent_title>
+  <platform>Capcom CPS-1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Quiz</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>Buttons only</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

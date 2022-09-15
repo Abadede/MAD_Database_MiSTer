@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wh2j</setname>
+  <name>World Heroes 2 Jet (ADM-007 ~ ADH-007)</name>
+  <region/>
+  <version>NGM-064 / ADM-007 (MVS) ~ NGH-064 / ADH-007 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>World Heroes</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>ADK,SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

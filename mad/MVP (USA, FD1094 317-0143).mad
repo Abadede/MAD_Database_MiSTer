@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mvp</setname>
+  <name>MVP (USA, FD1094 317-0143)</name>
+  <region>USA</region>
+  <version>FD1094 317-0143</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

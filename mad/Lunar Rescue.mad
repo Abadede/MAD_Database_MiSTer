@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>lrescue</setname>
-   <alternative>no</alternative>
-   <name>Lunar Rescue</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1979</year>
-   <category>Lander</category>
-   <manufacturer>Taito</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+  <setname>lrescue</setname>
+  <name>Lunar Rescue</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1979</year>
+  <manufacturer>Taito</manufacturer>
+  <category>Lander</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

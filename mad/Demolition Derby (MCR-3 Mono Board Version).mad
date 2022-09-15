@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>demoderm</setname>
-   <alternative>no</alternative>
-   <name>Demolition Derby</name>
-   <resolution>15kHz</resolution>
-   <year>1984</year>
-   <category>Racing</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>2</num_buttons>
-   <players>4</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+  <setname>demoderm</setname>
+  <name>Demolition Derby (MCR-3 Mono Board Version)</name>
+  <region/>
+  <version>MCR-3 Mono Board Version</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Racing</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>sprint1</setname>
-   <alternative>no</alternative>
-   <name>Sprint 1</name>
-   <resolution>15kHz</resolution>
-   <year>1978</year>
-   <category>Racing</category>
-   <manufacturer>Atari</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <series>Sprint</series>
-   <num_buttons>3</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+  <setname>sprint1</setname>
+  <name>Sprint 1</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Sprint</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1978</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Racing</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

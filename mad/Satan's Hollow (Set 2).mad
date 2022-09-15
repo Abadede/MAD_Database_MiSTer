@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>shollow2</setname>
+  <name>Satan's Hollow (Set 2)</name>
+  <region/>
+  <version>Set 2</version>
+  <alternative>yes</alternative>
+  <parent_title>Satan's Hollow</parent_title>
+  <platform>Midway MCR2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1981</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

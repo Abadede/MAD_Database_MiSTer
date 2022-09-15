@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>xmvsfu1d</setname>
+  <name>X-Men Vs. Street Fighter (USA 961004 Phoenix Edition)</name>
+  <region>USA</region>
+  <version>961004 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>X-Men Vs. Street Fighter</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Marvel,Capcom</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1996</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

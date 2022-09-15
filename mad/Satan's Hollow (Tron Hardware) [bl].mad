@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>shtron</setname>
+  <name>Satan's Hollow (Tron Hardware) [bl]</name>
+  <region/>
+  <version>Tron Hardware</version>
+  <alternative>yes</alternative>
+  <parent_title>Tron</parent_title>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1983</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>goldnaxe1</setname>
+  <name>Golden Axe (World, FD1094 317-0110)</name>
+  <region>World</region>
+  <version>FD1094 317-0110</version>
+  <alternative>yes</alternative>
+  <parent_title>Golden Axe</parent_title>
+  <platform>Sega System 16B</platform>
+  <series>Golden Axe</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

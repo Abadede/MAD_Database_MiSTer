@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mslug5</setname>
+  <name>Metal Slug 5 (NGM-2680)</name>
+  <region/>
+  <version>NGM-2680</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Metal Slug</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2003</year>
+  <manufacturer>SNK Playmore</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

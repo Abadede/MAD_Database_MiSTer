@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>jailbrekb</setname>
+  <name>Jail Break (bootleg)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Jail Break</parent_title>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1986</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

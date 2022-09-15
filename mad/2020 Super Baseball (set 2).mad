@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>2020bba</setname>
+  <name>2020 Super Baseball (set 2)</name>
+  <region/>
+  <version>NGM-030 (MVS), NGH-030 (AES)</version>
+  <alternative>yes</alternative>
+  <parent_title>2020 Super Baseball</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1991</year>
+  <manufacturer>SNK,Pallas</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>twotigerc</setname>
-   <alternative>no</alternative>
-   <name>Two Tigers</name>
-   <resolution>15kHz</resolution>
-   <year>1984</year>
-   <category>Shooter - Gallery</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR2</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 2-way horizontal</move_inputs>
+  <setname>twotigerc</setname>
+  <name>Two Tigers (Tron Conversion)</name>
+  <region/>
+  <version>Tron Conversion</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Midway MCR2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>shinobi5</setname>
+  <name>Shinobi (System 16B, unprotected)</name>
+  <region/>
+  <version>System 16B, unprotected</version>
+  <alternative>yes</alternative>
+  <parent_title>Shinobi</parent_title>
+  <platform>Sega System 16B</platform>
+  <series>Shinobi</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

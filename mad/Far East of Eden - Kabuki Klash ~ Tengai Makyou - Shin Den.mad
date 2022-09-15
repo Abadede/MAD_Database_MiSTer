@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kabukikl</setname>
+  <name>Far East of Eden - Kabuki Klash ~ Tengai Makyou - Shin Den</name>
+  <region/>
+  <version>NGM-092 (MVS), NGH-092 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Tengai Makyou</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1995</year>
+  <manufacturer>Hudson</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

@@ -1,11 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>rocnrope</setname>
-   <alternative>no</alternative>
-   <name>Roc'n Rope</name>
-   <region>World</region>
-   <year>1983</year>
-   <manufacturer>Konami</manufacturer>
-   <players>2</players>
-   <move_inputs>joystick 4</move_inputs>
+  <setname>rocnrope</setname>
+  <name>Roc'n Rope</name>
+  <region/>
+  <version>Roc'n Rope</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

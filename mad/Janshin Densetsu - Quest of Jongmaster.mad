@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>janshin</setname>
+  <name>Janshin Densetsu - Quest of Jongmaster</name>
+  <region/>
+  <version>NGM-0048?</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Aicom</manufacturer>
+  <category>Mahjong</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls>mahjong</special_controls>
+  <num_buttons>19</num_buttons>
+</misterarcadedescription>

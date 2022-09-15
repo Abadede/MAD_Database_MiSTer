@@ -1,10 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>trackfld</setname>
-   <alternative>no</alternative>
-   <name>Track &amp; Field</name>
-   <region>World</region>
-   <year>1983</year>
-   <manufacturer>Konami</manufacturer>
-   <players>4</players>
+  <setname>trackfld</setname>
+  <name>Track &amp; Field</name>
+  <region>Europe</region>
+  <version>Track &amp; Field</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series>Track &amp; Field</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (alternating),2 (simultaneous)</players>
+  <move_inputs>Only buttons</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>pleiads</setname>
-   <alternative>no</alternative>
-   <name>Pleiads (Tehkan)</name>
-   <year>1981</year>
-   <category>Space / Shooter</category>
-   <manufacturer>Tehkan</manufacturer>
+  <setname>pleiads</setname>
+  <name>Pleiads (Tehkan)</name>
+  <region/>
+  <version>Tehkan</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1981</year>
+  <manufacturer>Tehkan</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

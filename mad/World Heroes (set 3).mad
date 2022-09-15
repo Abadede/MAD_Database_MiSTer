@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wh1ha</setname>
+  <name>World Heroes (set 3)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>World Heroes</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>World Heroes</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1992</year>
+  <manufacturer>Alpha Denshi</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

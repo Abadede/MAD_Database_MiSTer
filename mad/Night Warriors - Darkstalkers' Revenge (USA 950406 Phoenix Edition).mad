@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>nwarrud</setname>
+  <name>Night Warriors - Darkstalkers' Revenge (USA 950406 Phoenix Edition)</name>
+  <region>USA</region>
+  <version>950406 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Night Warriors - Darkstalkers' Revenge</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Darkstalkers</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1995</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

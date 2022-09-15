@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>qtono2j</setname>
+  <name>Quiz Tonosama no Yabou 2 - Zenkoku-ban (Japan 950123)</name>
+  <region>Japan</region>
+  <version>950123</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1</platform>
+  <series>Quiz Tonosama no Yabou</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1995</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Quiz</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>Buttons only</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

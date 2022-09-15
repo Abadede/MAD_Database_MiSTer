@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>androdun</setname>
+  <name>Andro Dunos (NGM-049 ~ NGH-049)</name>
+  <region/>
+  <version>NGM-049 (MVS), NGH-049 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1992</year>
+  <manufacturer>Visco</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

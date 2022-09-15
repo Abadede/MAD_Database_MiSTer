@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gyrussce</setname>
-   <alternative>no</alternative>
-   <name>Gyruss (Centuri)</name>
-   <year>1983</year>
-   <category>Space</category>
-   <manufacturer>Konami (Centuri license)</manufacturer>
+  <setname>gyrussce</setname>
+  <name>Gyruss (Centuri)</name>
+  <region/>
+  <version>Centuri</version>
+  <alternative>yes</alternative>
+  <parent_title>Gyruss</parent_title>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Centuri,Konami</manufacturer>
+  <category>Shooter - Tube</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

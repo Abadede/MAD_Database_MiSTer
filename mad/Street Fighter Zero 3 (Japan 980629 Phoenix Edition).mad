@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sfz3jr2d</setname>
+  <name>Street Fighter Zero 3 (Japan 980629 Phoenix Edition)</name>
+  <region>Japan</region>
+  <version>980629 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Street Fighter Alpha 3</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1998</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

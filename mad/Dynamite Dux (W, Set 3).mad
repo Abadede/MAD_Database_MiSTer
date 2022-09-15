@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ddux</setname>
+  <name>Dynamite Dux (W, Set 3)</name>
+  <region>World</region>
+  <version>Set 3, FD1094 317-0096</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>dduxj</setname>
+  <name>Dynamite Dux (JP, Set 2)</name>
+  <region>Japan</region>
+  <version>Set 2, FD1094 317-0094</version>
+  <alternative>yes</alternative>
+  <parent_title>Dynamite Dux</parent_title>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

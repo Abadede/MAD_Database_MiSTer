@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mototour</setname>
+  <name>MotoTour - Zippy Race (Tecfri license)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Traverse USA</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Irem,Tecfri</manufacturer>
+  <category>Racing</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,17 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>kidniki</setname>
-   <alternative>no</alternative>
-   <name>Kid Niki- Radical Ninja</name>
-   <resolution>15kHz</resolution>
-   <region>World</region>
-   <year>1986</year>
-   <category>Platform</category>
-   <manufacturer>Irem</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Irem M62</platform>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>kidniki</setname>
+  <name>Kid Niki - Radical Ninja (W)</name>
+  <region>World</region>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Irem M62</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

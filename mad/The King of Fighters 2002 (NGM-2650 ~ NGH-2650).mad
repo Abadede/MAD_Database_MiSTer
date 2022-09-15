@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kof2002</setname>
+  <name>The King of Fighters 2002 (NGM-2650 ~ NGH-2650)</name>
+  <region/>
+  <version>NGM-2650 (MVS), NGH-2650 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>The King of Fighters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2002</year>
+  <manufacturer>Eolith,Playmore</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

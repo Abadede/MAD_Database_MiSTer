@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ecofghtru</setname>
+  <name>Eco Fighters (USA 940215)</name>
+  <region>USA</region>
+  <version>940215</version>
+  <alternative>yes</alternative>
+  <parent_title>Eco Fighters</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

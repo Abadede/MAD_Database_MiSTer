@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sbaskete</setname>
+  <name>Super Basketball (version E, encrypted)</name>
+  <region/>
+  <version>Version E, encrypted</version>
+  <alternative>yes</alternative>
+  <parent_title>Super Basketball</parent_title>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Sports</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

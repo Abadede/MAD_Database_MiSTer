@@ -1,13 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>ssf2t</setname>
-   <alternative>no</alternative>
-   <name>Super Street Fighter II Turbo (World 940223)</name>
-   <region>World</region>
-   <year>1994</year>
-   <category>Fighting</category>
-   <manufacturer>Capcom</manufacturer>
-   <platform>CPS-2</platform>
-   <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>ssf2t</setname>
+  <name>Super Street Fighter II Turbo (World 940223)</name>
+  <region>World</region>
+  <version>940223</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series>Street Fighter</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
 </misterarcadedescription>

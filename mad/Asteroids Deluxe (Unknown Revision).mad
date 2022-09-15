@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>astdelux4</setname>
+  <name>Asteroids Deluxe (Unknown Revision)</name>
+  <region/>
+  <version>Unknown Revision</version>
+  <alternative>yes</alternative>
+  <parent_title>Asteroids Deluxe</parent_title>
+  <platform/>
+  <series>Asteroids</series>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>1980</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>31kHz</resolution>
+  <players>1</players>
+  <move_inputs>Only buttons</move_inputs>
+  <special_controls/>
+  <num_buttons>5</num_buttons>
+</misterarcadedescription>

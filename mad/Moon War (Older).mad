@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>moonwara</setname>
+  <name>Moon War (Older)</name>
+  <region/>
+  <version>Older</version>
+  <alternative>yes</alternative>
+  <parent_title>Moon War</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1981</year>
+  <manufacturer>Stern</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs/>
+  <special_controls>spinner</special_controls>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

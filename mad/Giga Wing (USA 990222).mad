@@ -1,13 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>gigawing</setname>
-   <alternative>no</alternative>
-   <name>Giga Wing (USA 990222)</name>
-   <region>USA</region>
-   <year>1999</year>
-   <category>Shoot'em up</category>
-   <manufacturer>Takumi</manufacturer>
-   <platform>CPS-2</platform>
-   <players>2</players>
-   <move_inputs>joystick 8-way</move_inputs>
+  <setname>gigawing</setname>
+  <name>Giga Wing (USA 990222)</name>
+  <region>USA</region>
+  <version>990222</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1999</year>
+  <manufacturer>Takumi,Capcom</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

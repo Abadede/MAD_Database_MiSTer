@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wofhfh</setname>
+  <name>Huo Feng Huang (Chinese bootleg of Sangokushi II)</name>
+  <region>China</region>
+  <version>Bootleg of Sangokushi II</version>
+  <alternative>yes</alternative>
+  <parent_title>Warriors of Fate</parent_title>
+  <platform>Capcom CPS-1</platform>
+  <series>Dynasty Wars</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1999</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

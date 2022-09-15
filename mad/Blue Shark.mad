@@ -1,15 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>blueshrk</setname>
-   <alternative>no</alternative>
-   <name>Blue Shark</name>
-   <resolution>15kHz</resolution>
-   <year>1978</year>
-   <category>Shooter - Gallery</category>
-   <manufacturer>Midway</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <special_controls>positional</special_controls>
+  <setname>blueshrk</setname>
+  <name>Blue Shark</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1978</year>
+  <manufacturer>Midway</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls>positional</special_controls>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

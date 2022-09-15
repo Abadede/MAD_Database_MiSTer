@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>froman2b</setname>
+  <name>Idol Mahjong Final Romance 2 (bootleg of CD version)</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Idol Mahjong Final Romance</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1995</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Mahjong</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

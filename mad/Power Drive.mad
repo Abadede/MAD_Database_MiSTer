@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>powerdrv</setname>
-   <alternative>no</alternative>
-   <name>Power Drive</name>
-   <resolution>15kHz</resolution>
-   <year>1986</year>
-   <category>Racing</category>
-   <manufacturer>Bally</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <platform>Midway MCR3</platform>
-   <num_buttons>1</num_buttons>
-   <players>3</players>
-   <move_inputs>joystick 4-way</move_inputs>
+  <setname>powerdrv</setname>
+  <name>Power Drive</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Midway MCR3</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Bally,Midway</manufacturer>
+  <category>Racing</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

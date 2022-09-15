@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>aliensyn7</setname>
+  <name>Alien Syndrome (set 7, System 16B, MC-8123B 317-00xx)</name>
+  <region/>
+  <version>System 16B, MC-8123B 317-00xx</version>
+  <alternative>yes</alternative>
+  <parent_title>Alien Syndrome</parent_title>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1987</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

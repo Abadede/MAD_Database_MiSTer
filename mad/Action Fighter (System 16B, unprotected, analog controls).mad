@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>afightere</setname>
+  <name>Action Fighter (System 16B, unprotected, analog controls)</name>
+  <region/>
+  <version>unprotected, analog controls</version>
+  <alternative>yes</alternative>
+  <parent_title>Action Fighter</parent_title>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs/>
+  <special_controls>paddle</special_controls>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>tetris3d</setname>
+  <name>Tetris (Sega, bootleg of FD1094 317-0093a)</name>
+  <region>Japan</region>
+  <version>bootleg of FD1094 317-0093a</version>
+  <alternative>yes</alternative>
+  <parent_title>Tetris (Sega)</parent_title>
+  <platform>Sega System 16A</platform>
+  <series>Tetris</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1988</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>5-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>futurespy</setname>
-   <alternative>no</alternative>
-   <name>Future Spy</name>
-   <year>1982</year>
-   <category>Isometric Shoot'em up</category>
-   <manufacturer>Sega/Gremlin</manufacturer>
+  <setname>futurespy</setname>
+  <name>Future Spy</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew/>
+  <bootleg/>
+  <year>1982</year>
+  <manufacturer>Sega/Gremlin</manufacturer>
+  <category>Shooter - Isometric</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

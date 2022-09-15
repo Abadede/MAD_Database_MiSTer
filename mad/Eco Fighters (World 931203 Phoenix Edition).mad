@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ecofghtrd</setname>
+  <name>Eco Fighters (World 931203 Phoenix Edition)</name>
+  <region>World</region>
+  <version>931203 Phoenix Edition</version>
+  <alternative>yes</alternative>
+  <parent_title>Eco Fighters</parent_title>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1993</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Shooter - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

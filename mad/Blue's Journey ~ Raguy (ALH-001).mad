@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>bjourneyh</setname>
+  <name>Blue's Journey ~ Raguy (ALH-001)</name>
+  <region/>
+  <version>NGH-022 / ALH-001 (AES)</version>
+  <alternative>yes</alternative>
+  <parent_title>Blue's Journey ~ Raguy</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>Alpha Denshi</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>neocup98</setname>
+  <name>Neo-Geo Cup '98 - The Road to the Victory</name>
+  <region/>
+  <version>NGM-2440 (MVS), NGH-2440 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Super Sidekicks</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1998</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

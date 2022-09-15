@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>atetrisc2</setname>
+  <name>Tetris (Atari cocktail set 2)</name>
+  <region/>
+  <version>Cocktail set 2</version>
+  <alternative>yes</alternative>
+  <parent_title>Tetris (Atari)</parent_title>
+  <platform/>
+  <series>Tetris</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Puzzle</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>3-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

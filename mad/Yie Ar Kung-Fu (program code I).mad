@@ -1,11 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>yiear</setname>
-   <alternative>no</alternative>
-   <name>Yie Ar Kung-Fu (program code I)</name>
-   <region>World</region>
-   <year>1985</year>
-   <manufacturer>Konami</manufacturer>
-   <players>2</players>
-   <move_inputs>joystick 8</move_inputs>
+  <setname>yiear</setname>
+  <name>Yie Ar Kung-Fu (program code I)</name>
+  <region/>
+  <version>Program code I</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Konami M6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Konami</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

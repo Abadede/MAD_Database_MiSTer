@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>jockeygp</setname>
+  <name>Jockey Grand Prix (set 1)</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2001</year>
+  <manufacturer>Sun Amusement,BrezzaSoft</manufacturer>
+  <category>Gambling</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

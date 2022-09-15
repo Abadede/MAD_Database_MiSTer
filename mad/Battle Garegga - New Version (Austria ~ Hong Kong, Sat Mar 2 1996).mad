@@ -1,0 +1,23 @@
+<misterarcadedescription>
+  <setname>bgaregganv</setname>
+  <name>Battle Garegga - New Version (Austria ~ Hong Kong, Sat Mar 2 1996)</name>
+  <region>Austria</region>
+  <region>Hong Kong</region>
+  <version>Sat Mar 2 1996</version>
+  <alternative>yes</alternative>
+  <parent_title>Battle Garegga</parent_title>
+  <platform>Toaplan Version 2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1996</year>
+  <manufacturer>Raizing,Eighting</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

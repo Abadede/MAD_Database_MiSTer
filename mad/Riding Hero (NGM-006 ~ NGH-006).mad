@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>ridhero</setname>
+  <name>Riding Hero (NGM-006 ~ NGH-006)</name>
+  <region/>
+  <version>NGM-006 (MVS), NGH-006 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Racing</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>rbff1ka</setname>
+  <name>Real Bout Fatal Fury ~ Real Bout Garou Densetsu (Korean release, bug fix revision)</name>
+  <region>Korea</region>
+  <version>NGM-095 (MVS), NGH-095 (AES)</version>
+  <alternative>yes</alternative>
+  <parent_title>Real Bout Fatal Fury ~ Real Bout Garou Densetsu</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Fatal Fury</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1995</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

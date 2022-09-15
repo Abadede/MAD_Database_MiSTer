@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mmatrix</setname>
+  <name>Mars Matrix - Hyper Solid Shooting (USA 000412)</name>
+  <region>USA</region>
+  <version>000412</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2000</year>
+  <manufacturer>Takumi,Capcom</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

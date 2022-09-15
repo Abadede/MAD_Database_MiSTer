@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kotm2p</setname>
+  <name>King of the Monsters 2 - The Next Thing (prototype)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>King of the Monsters 2 - The Next Thing</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>King of the Monsters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1992</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

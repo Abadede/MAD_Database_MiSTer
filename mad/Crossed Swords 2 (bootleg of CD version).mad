@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>crswd2bl</setname>
+  <name>Crossed Swords 2 (bootleg of CD version)</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Crossed Swords</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1996</year>
+  <manufacturer>bootleg (Razoola)</manufacturer>
+  <category>Action</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

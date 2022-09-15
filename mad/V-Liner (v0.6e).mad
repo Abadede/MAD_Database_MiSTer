@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>vliner6e</setname>
+  <name>V-Liner (v0.6e)</name>
+  <region/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>V-Liner</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>2001</year>
+  <manufacturer>Dyna,BrezzaSoft</manufacturer>
+  <category>Gambling</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls/>
+  <num_buttons>6</num_buttons>
+</misterarcadedescription>

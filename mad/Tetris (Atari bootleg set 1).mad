@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>atetrisb</setname>
+  <name>Tetris (Atari bootleg set 1)</name>
+  <region/>
+  <version>bootleg set 1</version>
+  <alternative>yes</alternative>
+  <parent_title>Tetris (Atari)</parent_title>
+  <platform/>
+  <series>Tetris</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1988</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>3-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

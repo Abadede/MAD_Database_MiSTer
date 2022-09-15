@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>pkunwarj</setname>
+  <name>Penguin-Kun Wars (JP)</name>
+  <region>Japan</region>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>UPL</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

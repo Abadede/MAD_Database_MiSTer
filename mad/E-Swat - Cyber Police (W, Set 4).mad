@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>eswat</setname>
+  <name>E-Swat - Cyber Police (W, Set 4)</name>
+  <region>World</region>
+  <version>Set 4, FD1094 317-0130</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Run 'n' Gun - Horizontal</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

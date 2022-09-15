@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>commandob</setname>
+  <name>Commando (bootleg set 1)</name>
+  <region/>
+  <version>Set 1</version>
+  <alternative>yes</alternative>
+  <parent_title>Commando</parent_title>
+  <platform>Capcom CPS-0</platform>
+  <series>Commando</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1985</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Run 'n' Gun - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>anteater</setname>
-   <alternative>no</alternative>
-   <name>Anteater</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1982</year>
-   <category>Maze</category>
-   <manufacturer>Tago Electronics</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>1</num_buttons>
-   <players>1</players>
-   <move_inputs>joystick 4-way</move_inputs>
+  <setname>anteater</setname>
+  <name>Anteater</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1982</year>
+  <manufacturer>Tago Electronics</manufacturer>
+  <category>Maze</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

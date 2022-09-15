@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>joyjoy</setname>
+  <name>Puzzled ~ Joy Joy Kid (NGM-021 ~ NGH-021)</name>
+  <region/>
+  <version>NGM-021 (MVS), NGH-021 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

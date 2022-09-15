@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>arkanoiduo</setname>
+  <name>Arkanoid (USA, older)</name>
+  <region>USA</region>
+  <version>Older</version>
+  <alternative>yes</alternative>
+  <parent_title>Arkanoid</parent_title>
+  <platform/>
+  <series>Arkanoid</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Taito</manufacturer>
+  <category>Ball and Paddle</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs/>
+  <special_controls>spinner</special_controls>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

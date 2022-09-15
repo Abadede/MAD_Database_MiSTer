@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mercs</setname>
+  <name>Mercs (World 900302)</name>
+  <region>World</region>
+  <version>900302</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1</platform>
+  <series>Commando</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1990</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Run 'n' Gun - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

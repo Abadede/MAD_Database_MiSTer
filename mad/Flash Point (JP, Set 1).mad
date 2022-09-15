@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>fpoint1</setname>
+  <name>Flash Point (JP, Set 1)</name>
+  <region>Japan</region>
+  <version>Set 1, FD1094 317-0127A</version>
+  <alternative>yes</alternative>
+  <parent_title>Flash Point</parent_title>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

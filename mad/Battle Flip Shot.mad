@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>flipshot</setname>
+  <name>Battle Flip Shot</name>
+  <region/>
+  <version>NGM-2470</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Battle Flip Shot</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1998</year>
+  <manufacturer>Visco</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

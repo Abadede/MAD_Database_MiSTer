@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>vballb</setname>
+  <name>U.S. Championship V'ball (US) [bl]</name>
+  <region>USA</region>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1988</year>
+  <manufacturer>Technos</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

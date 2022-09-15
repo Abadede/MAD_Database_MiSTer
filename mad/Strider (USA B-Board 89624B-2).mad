@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>strider</setname>
+  <name>Strider (USA B-Board 89624B-2)</name>
+  <region>USA</region>
+  <version>B-Board 89624B-2</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1</platform>
+  <series>Strider</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>wof</setname>
-   <alternative>no</alternative>
-   <name>Warriors of Fate (World 921031)</name>
-   <year>1992</year>
-   <category>Beat 'em up</category>
-   <manufacturer>Capcom</manufacturer>
+  <setname>wof</setname>
+  <name>Warriors of Fate (World 921031)</name>
+  <region>World</region>
+  <version>921031</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1.5</platform>
+  <series>Dynasty Wars</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1992</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>3 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

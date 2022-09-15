@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>Clean Sweep</setname>
+  <name>Clean Sweep (TTL)</name>
+  <region/>
+  <version>TTL</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1974</year>
+  <manufacturer>Ramtek</manufacturer>
+  <category>Maze</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls>rotary</special_controls>
+  <num_buttons>0</num_buttons>
+</misterarcadedescription>

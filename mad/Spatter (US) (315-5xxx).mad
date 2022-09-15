@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>spatter</setname>
+  <name>Spatter (US) (315-5xxx)</name>
+  <region>US</region>
+  <version>315-5xxx</version>
+  <alternative>yes</alternative>
+  <parent_title>Spatter</parent_title>
+  <platform>Sega System 1</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1984</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Maze</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

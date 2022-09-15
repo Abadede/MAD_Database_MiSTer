@@ -1,16 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>moonwar</setname>
-   <alternative>no</alternative>
-   <name>Moon War</name>
-   <flip>yes</flip>
-   <resolution>15kHz</resolution>
-   <year>1981</year>
-   <category>Shooter - Multidirectional</category>
-   <manufacturer>Stern</manufacturer>
-   <homebrew>no</homebrew>
-   <bootleg>no</bootleg>
-   <num_buttons>2</num_buttons>
-   <players>2 (alternating)</players>
-   <special_controls>spinner</special_controls>
+  <setname>moonwar</setname>
+  <name>Moon War</name>
+  <region/>
+  <version/>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1981</year>
+  <manufacturer>Stern</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs/>
+  <special_controls>spinner</special_controls>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

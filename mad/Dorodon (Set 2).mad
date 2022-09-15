@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>dorodon2</setname>
+  <name>Dorodon (Set 2)</name>
+  <region/>
+  <version>Set 2</version>
+  <alternative>yes</alternative>
+  <parent_title>Dorodon</parent_title>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1982</year>
+  <manufacturer>UPL</manufacturer>
+  <category>Maze</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>4-way</move_inputs>
+  <special_controls/>
+  <num_buttons>0</num_buttons>
+</misterarcadedescription>

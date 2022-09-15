@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>gauntlet2pr3</setname>
+  <name>Gauntlet (2 Players, Rev 3)</name>
+  <region/>
+  <version>2 Players, Rev 3</version>
+  <alternative>yes</alternative>
+  <parent_title>Gauntlet</parent_title>
+  <platform/>
+  <series>Gauntlet</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1985</year>
+  <manufacturer>Atari</manufacturer>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

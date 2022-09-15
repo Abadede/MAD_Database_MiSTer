@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>slammast</setname>
-   <alternative>no</alternative>
-   <name>Saturday Night Slam Masters (World 930713)</name>
-   <year>1993</year>
-   <category>Wrestling/Fighting</category>
-   <manufacturer>Capcom</manufacturer>
+  <setname>slammast</setname>
+  <name>Saturday Night Slam Masters (World 930713)</name>
+  <region>World</region>
+  <version>930713</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-1.5</platform>
+  <series>Slam Masters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1993</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>arkatayt</setname>
+  <name>Arkanoid (Tayto bootleg)</name>
+  <region/>
+  <version>Tayto bootleg</version>
+  <alternative>yes</alternative>
+  <parent_title>Arkanoid</parent_title>
+  <platform/>
+  <series>Arkanoid</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1986</year>
+  <manufacturer>bootleg (Tayto)</manufacturer>
+  <category>Ball and Paddle</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs/>
+  <special_controls>spinner</special_controls>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

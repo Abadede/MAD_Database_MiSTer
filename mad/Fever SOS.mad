@@ -1,9 +1,22 @@
-<?xml version="1.0" ?>
 <misterarcadedescription>
-   <setname>feversos</setname>
-   <alternative>no</alternative>
-   <name>Fever SOS</name>
-   <year>1998</year>
-   <category>Shooter</category>
-   <manufacturer>CAVE</manufacturer>
+  <setname>feversos</setname>
+  <name>Fever SOS</name>
+  <region>World</region>
+  <version>98/09/25 Ver</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Cave 68000</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1998</year>
+  <manufacturer>Cave</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

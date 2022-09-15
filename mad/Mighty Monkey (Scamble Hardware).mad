@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mimonscr</setname>
+  <name>Mighty Monkey (Scamble Hardware)</name>
+  <region/>
+  <version>Scramble Hardware</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1982</year>
+  <manufacturer/>
+  <category>Shooter - Multidirectional</category>
+  <rotation>vertical (cw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

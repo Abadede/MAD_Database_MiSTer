@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>sonicwi3</setname>
+  <name>Aero Fighters 3 ~ Sonic Wings 3</name>
+  <region/>
+  <version>NGM-097 (MVS), NGH-097 (AES)</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>SNK Neo-Geo</platform>
+  <series>Aero Fighters</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1995</year>
+  <manufacturer>Video System Co.</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

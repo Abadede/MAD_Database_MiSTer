@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>jyangoku</setname>
+  <name>Jyangokushi - Haoh no Saihai (Japan 990527)</name>
+  <region>Japan</region>
+  <version>990527</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Capcom CPS-2</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1999</year>
+  <manufacturer>Capcom</manufacturer>
+  <category>Mahjong</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

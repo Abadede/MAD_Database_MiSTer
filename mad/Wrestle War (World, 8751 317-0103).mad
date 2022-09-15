@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>wrestwar</setname>
+  <name>Wrestle War (World, 8751 317-0103)</name>
+  <region>World</region>
+  <version>8751 317-0103</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System 16B</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1989</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Sports</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

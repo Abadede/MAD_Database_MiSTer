@@ -21,22 +21,23 @@ An example of a valid MAD file would be the following:
 <?xml version="1.0" ?>
 <misterarcadedescription>
 
-	<setname>ddonpach</setname>
-	<name>DoDonPachi (JP)</name>
+	<setname>ddonpachj</setname>
+	<name>DoDonPachi (Japan)</name>
 	<region>Japan</region>
+	<version>1997 2/5 Master Ver.</version>
 	<alternative>yes</alternative>
-	<parent_title>DonPachi</parent_title>
-	<platform>CAVE 68000</platform>
+	<parent_title>DoDonPachi</parent_title>
+	<platform>Cave 68000</platform>
 	<series>DonPachi</series>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<year>1997</year>
-	<manufacturer>CAVE</manufacturer>
+	<manufacturer>Cave,Atlus</manufacturer>
 	<category>Shooter - Vertical</category>
 	<best_of>theypsilon Top Shmups|1</best_of>
 
 	<rotation>vertical (ccw)</rotation>
-	<flip>yes</flip>
+	<flip>no</flip>
 	<resolution>15kHz</resolution>
 
 	<players>2 (simultaneous)</players>

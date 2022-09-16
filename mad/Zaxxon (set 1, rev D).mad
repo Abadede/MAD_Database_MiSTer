@@ -1,11 +1,11 @@
 <misterarcadedescription>
   <setname>zaxxon</setname>
-  <name>Zaxxon</name>
+  <name>Zaxxon (set 1, rev D)</name>
   <region/>
-  <version/>
+  <version>Set 1, rev D</version>
   <alternative>no</alternative>
   <parent_title/>
-  <platform/>
+  <platform>Sega Zaxxon Hardware</platform>
   <series>Zaxxon</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>

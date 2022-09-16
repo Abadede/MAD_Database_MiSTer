@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>futspy</setname>
-  <name>Future Spy</name>
+  <setname>zaxxonb</setname>
+  <name>Jackson</name>
   <region/>
-  <version>315-5061</version>
-  <alternative>no</alternative>
-  <parent_title/>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Zaxxon</parent_title>
   <platform>Sega Zaxxon Hardware</platform>
-  <series/>
+  <series>Zaxxon</series>
   <homebrew>no</homebrew>
-  <bootleg>no</bootleg>
-  <year>1984</year>
-  <manufacturer>Sega</manufacturer>
+  <bootleg>yes</bootleg>
+  <year>1982</year>
+  <manufacturer>bootleg</manufacturer>
   <category>Shooter - Isometric</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>
@@ -18,5 +18,5 @@
   <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
-  <num_buttons>2</num_buttons>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

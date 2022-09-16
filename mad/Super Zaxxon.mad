@@ -2,15 +2,15 @@
   <setname>szaxxon</setname>
   <name>Super Zaxxon</name>
   <region/>
-  <version/>
+  <version>315-5013</version>
   <alternative>no</alternative>
   <parent_title/>
-  <platform/>
-  <series/>
+  <platform>Sega Zaxxon Hardware</platform>
+  <series>Zaxxon</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1982</year>
-  <manufacturer>Sega/Gremlin</manufacturer>
+  <manufacturer>Sega</manufacturer>
   <category>Shooter - Isometric</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>futspy</setname>
-  <name>Future Spy</name>
+  <setname>tiptop</setname>
+  <name>Tip Top</name>
   <region/>
-  <version>315-5061</version>
-  <alternative>no</alternative>
-  <parent_title/>
+  <version>3 board stack</version>
+  <alternative>yes</alternative>
+  <parent_title>Congo Bongo</parent_title>
   <platform>Sega Zaxxon Hardware</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1984</year>
+  <year>1983</year>
   <manufacturer>Sega</manufacturer>
-  <category>Shooter - Isometric</category>
+  <category>Platform - Climb</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
-  <num_buttons>2</num_buttons>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

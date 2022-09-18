@@ -1,21 +1,21 @@
 <misterarcadedescription>
-  <setname>kungfub2</setname>
-  <name>Kung-Fu Master (Set 2) [bl]</name>
-  <region/>
-  <version>Set 2</version>
+  <setname>vigilantc</setname>
+  <name>Vigilante (World rev C)</name>
+  <region>World</region>
+  <version>Rev C</version>
   <alternative>yes</alternative>
-  <parent_title>Kung-Fu Master</parent_title>
-  <platform>Irem M62</platform>
-  <series/>
+  <parent_title>Vigilante</parent_title>
+  <platform>Irem M75</platform>
+  <series>Kung-Fu Master</series>
   <homebrew>no</homebrew>
-  <bootleg>yes</bootleg>
-  <year>1984</year>
+  <bootleg>no</bootleg>
+  <year>1988</year>
   <manufacturer>Irem</manufacturer>
   <category>Beat 'em Up</category>
   <rotation>horizontal</rotation>
   <flip>yes</flip>
   <resolution>15kHz</resolution>
-  <players>2 (alternating)</players>
+  <players>1</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
   <num_buttons>2</num_buttons>

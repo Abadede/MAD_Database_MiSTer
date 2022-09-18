@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>kungfub</setname>
+  <name>Kung-Fu Master (bootleg set 1)</name>
+  <region/>
+  <version>Bootleg set 1</version>
+  <alternative>yes</alternative>
+  <parent_title>Kung-Fu Master</parent_title>
+  <platform>Irem M62</platform>
+  <series>Kung-Fu Master</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1984</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

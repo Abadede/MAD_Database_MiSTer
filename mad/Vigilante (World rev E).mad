@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>vigilant</setname>
+  <name>Vigilante (World rev E)</name>
+  <region>World</region>
+  <version>Rev E</version>
+  <alternative>no</alternative>
+  <parent_title>Vigilante</parent_title>
+  <platform>Irem M75</platform>
+  <series>Kung-Fu Master</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Irem</manufacturer>
+  <category>Beat 'em Up</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

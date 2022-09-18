@@ -1,15 +1,15 @@
 <misterarcadedescription>
-  <setname>kungfum</setname>
-  <name>Kung-Fu Master (W)</name>
-  <region>World</region>
-  <version/>
-  <alternative>no</alternative>
-  <parent_title/>
-  <platform>Irem M62</platform>
-  <series/>
+  <setname>vigilantd</setname>
+  <name>Vigilante (Japan rev D)</name>
+  <region>Japan</region>
+  <version>Rev D</version>
+  <alternative>yes</alternative>
+  <parent_title>Vigilante</parent_title>
+  <platform>Irem M75</platform>
+  <series>Kung-Fu Master</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1984</year>
+  <year>1988</year>
   <manufacturer>Irem</manufacturer>
   <category>Beat 'em Up</category>
   <rotation>horizontal</rotation>

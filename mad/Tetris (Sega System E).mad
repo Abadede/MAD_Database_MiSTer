@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>tetrisse</setname>
+  <name>Tetris (Sega System E)</name>
+  <region>Japan</region>
+  <version>System E</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Sega System E</platform>
+  <series>Tetris</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Puzzle</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

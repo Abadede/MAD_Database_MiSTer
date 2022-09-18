@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>bublcave10</setname>
+  <name>Bubble Bobble - Lost Cave v1.0</name>
+  <region/>
+  <version>1.0</version>
+  <alternative>yes</alternative>
+  <parent_title>Bubble Bobble</parent_title>
+  <platform/>
+  <series>Bubble Bobble</series>
+  <homebrew>yes</homebrew>
+  <bootleg>no</bootleg>
+  <year>2012</year>
+  <manufacturer>hack (Bisboch and Aladar)</manufacturer>
+  <category>Puzzle - Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>mooncrgx</setname>
+  <name>Moon Cresta (bootleg on Galaxian hardware)</name>
+  <region/>
+  <version>Bootleg on Galaxian hardware</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Moon Cresta</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>1980</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Shooter - Gallery</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>snowbro2</setname>
+  <name>Snow Bros. 2 - With New Elves ~ Otenki Paradise (Hanafram)</name>
+  <region/>
+  <version>Hanafram</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Toaplan Version 2</platform>
+  <series>Snowbros.</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1994</year>
+  <manufacturer>Hanafram</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

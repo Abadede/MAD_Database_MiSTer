@@ -5,8 +5,8 @@
   <version/>
   <alternative>no</alternative>
   <parent_title/>
-  <platform/>
-  <series/>
+  <platform>Williams 6809</platform>
+  <series>Defender</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1981</year>
@@ -16,7 +16,7 @@
   <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>2-way horizontal</move_inputs>
+  <move_inputs>2-way vertical</move_inputs>
   <special_controls/>
-  <num_buttons>4</num_buttons>
+  <num_buttons>6</num_buttons>
 </misterarcadedescription>

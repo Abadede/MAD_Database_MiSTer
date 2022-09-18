@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>playball</setname>
+  <name>Playball! (prototype)</name>
+  <region/>
+  <version>Prototype</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Williams 6809</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1983</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Ball and Paddle</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>0</num_buttons>
+</misterarcadedescription>

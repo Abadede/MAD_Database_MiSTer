@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>aof3k</setname>
+  <name>Art of Fighting 3 - The Path of the Warrior (Korea)</name>
+  <region>Korea</region>
+  <version/>
+  <alternative>yes</alternative>
+  <parent_title>Art of Fighting 3</parent_title>
+  <platform>SNK Neo-Geo</platform>
+  <series>Art of Fighting</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1996</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Fighting</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>4</num_buttons>
+</misterarcadedescription>

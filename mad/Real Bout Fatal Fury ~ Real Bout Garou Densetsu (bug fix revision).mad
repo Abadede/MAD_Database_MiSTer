@@ -2,9 +2,9 @@
   <setname>rbff1a</setname>
   <name>Real Bout Fatal Fury ~ Real Bout Garou Densetsu (bug fix revision)</name>
   <region/>
-  <version>NGM-095 (MVS), NGH-095 (AES)</version>
+  <version>bug fix revision, NGM-095 (MVS), NGH-095 (AES)</version>
   <alternative>yes</alternative>
-  <parent_title>Real Bout Fatal Fury ~ Real Bout Garou Densetsu</parent_title>
+  <parent_title>Real Bout Fatal Fury</parent_title>
   <platform>SNK Neo-Geo</platform>
   <series>Fatal Fury</series>
   <homebrew>no</homebrew>

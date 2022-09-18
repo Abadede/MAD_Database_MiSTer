@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>joust2</setname>
+  <name>Joust 2 - Survival of the Fittest (revision 2)</name>
+  <region/>
+  <version>Revision 2</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform>Williams 6809</platform>
+  <series>Joust</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Williams</manufacturer>
+  <category>Platform - Climb</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

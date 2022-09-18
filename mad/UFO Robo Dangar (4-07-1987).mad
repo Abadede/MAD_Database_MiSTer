@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>dangar</setname>
+  <name>UFO Robo Dangar (4-07-1987)</name>
+  <region/>
+  <version>4/07/1987</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Moon Cresta</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Nichibutsu</manufacturer>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (ccw)</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (alternating)</players>
+  <move_inputs>8-way</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

@@ -5,7 +5,7 @@
   <version>Rev 2</version>
   <alternative>yes</alternative>
   <parent_title>Sinistar</parent_title>
-  <platform/>
+  <platform>Williams 6809</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
@@ -18,5 +18,5 @@
   <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
-  <num_buttons>1</num_buttons>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

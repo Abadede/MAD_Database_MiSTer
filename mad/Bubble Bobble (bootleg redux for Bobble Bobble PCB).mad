@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>bbredux</setname>
+  <name>Bubble Bobble (bootleg redux for Bobble Bobble PCB)</name>
+  <region/>
+  <version>Bootleg redux for Bobble Bobble PCB</version>
+  <alternative>yes</alternative>
+  <parent_title>Bubble Bobble</parent_title>
+  <platform/>
+  <series>Bubble Bobble</series>
+  <homebrew>no</homebrew>
+  <bootleg>yes</bootleg>
+  <year>2013</year>
+  <manufacturer>bootleg (Punji)</manufacturer>
+  <category>Puzzle - Platform</category>
+  <rotation>horizontal</rotation>
+  <flip>yes</flip>
+  <resolution>15kHz</resolution>
+  <players>2 (simultaneous)</players>
+  <move_inputs>2-way horizontal</move_inputs>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
+</misterarcadedescription>

@@ -5,8 +5,8 @@
   <version/>
   <alternative>no</alternative>
   <parent_title/>
-  <platform/>
-  <series/>
+  <platform>Williams 6809</platform>
+  <series>Joust</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1982</year>

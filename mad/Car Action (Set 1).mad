@@ -1,16 +1,16 @@
 <misterarcadedescription>
   <setname>caractn</setname>
-  <name>Car Action (Set 1)</name>
+  <name>Car Action (set 1)</name>
   <region/>
   <version>Set 1</version>
   <alternative>yes</alternative>
-  <parent_title>Burning Rubber</parent_title>
+  <parent_title>Burnin' Rubber</parent_title>
   <platform/>
   <series/>
   <homebrew>no</homebrew>
-  <bootleg>no</bootleg>
+  <bootleg>yes</bootleg>
   <year>1982</year>
-  <manufacturer/>
+  <manufacturer>bootleg</manufacturer>
   <category>Racing</category>
   <rotation>vertical (ccw)</rotation>
   <flip>no</flip>

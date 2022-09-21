@@ -4,7 +4,7 @@
   <region/>
   <version>Red Label</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>Defender</parent_title>
   <platform>Williams 6809</platform>
   <series>Defender</series>
   <homebrew>no</homebrew>

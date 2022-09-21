@@ -4,7 +4,7 @@
   <region>World</region>
   <version>older</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>Arkanoid</parent_title>
   <platform/>
   <series>Arkanoid</series>
   <homebrew>no</homebrew>

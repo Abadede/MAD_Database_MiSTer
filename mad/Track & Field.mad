@@ -4,7 +4,7 @@
   <region>Europe</region>
   <version>Track &amp; Field</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>Track &amp; Field</parent_title>
   <platform>Konami M6809</platform>
   <series>Track &amp; Field</series>
   <homebrew>no</homebrew>

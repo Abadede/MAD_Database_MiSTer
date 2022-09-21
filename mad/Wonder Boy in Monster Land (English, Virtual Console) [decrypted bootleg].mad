@@ -1,10 +1,10 @@
 <misterarcadedescription>
   <setname>wbmlvcd</setname>
-  <name>Wonder Boy in Monster Land (English, Virtual Console) [decrypted bootleg]</name>
+  <name>Wonder Boy - Monster Land (English, Virtual Console) [decrypted bootleg]</name>
   <region>Japan</region>
   <version>English, Virtual Console</version>
   <alternative>yes</alternative>
-  <parent_title>Wonder Boy</parent_title>
+  <parent_title>Wonder Boy - Monster Land</parent_title>
   <platform>Sega System 1</platform>
   <series/>
   <homebrew>no</homebrew>

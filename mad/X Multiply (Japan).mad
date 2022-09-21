@@ -4,7 +4,7 @@
   <region>Japan</region>
   <version>M72 hardware</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>X Multiply</parent_title>
   <platform>Irem M72</platform>
   <series/>
   <homebrew>no</homebrew>

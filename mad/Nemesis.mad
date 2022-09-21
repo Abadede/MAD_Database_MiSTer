@@ -4,7 +4,7 @@
   <region/>
   <version>ROM version</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>Nemesis</parent_title>
   <platform>Konami GX400</platform>
   <series>Gradius</series>
   <homebrew>no</homebrew>

@@ -4,7 +4,7 @@
   <region>World</region>
   <version>R-Type II (World)</version>
   <alternative>no</alternative>
-  <parent_title/>
+  <parent_title>R-Type II</parent_title>
   <platform>Irem M72</platform>
   <series>R-Type</series>
   <homebrew>no</homebrew>

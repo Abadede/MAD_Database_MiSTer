@@ -1,15 +1,15 @@
 <misterarcadedescription>
-  <setname>polyplay2</setname>
-  <name>Poly Play 2</name>
-  <region/>
-  <version/>
-  <alternative>no</alternative>
-  <parent_title>Poly Play 2</parent_title>
+  <setname>polyplay2c</setname>
+  <name>Poly-Play (ZRE-PP, Czech)</name>
+  <region>Czechia</region>
+  <version>ZRE-PP</version>
+  <alternative>yes</alternative>
+  <parent_title>Poly-Play</parent_title>
   <platform/>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1985</year>
+  <year>1989</year>
   <manufacturer>VEB Polytechnik</manufacturer>
   <category>Mixed</category>
   <rotation>horizontal</rotation>

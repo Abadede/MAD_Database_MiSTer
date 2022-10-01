@@ -1,9 +1,9 @@
 <misterarcadedescription>
-  <setname>hharryu</setname>
-  <name>Hammerin' Harry (USA, M84 hardware)</name>
-  <region>USA</region>
+  <setname>dkgensan</setname>
+  <name>Daiku no Gensan (Japan, M84 hardware)</name>
+  <region>Japan</region>
   <version>M84 hardware</version>
-  <alternative>no</alternative>
+  <alternative>yes</alternative>
   <parent_title>Hammerin' Harry</parent_title>
   <platform>Irem M84</platform>
   <series/>

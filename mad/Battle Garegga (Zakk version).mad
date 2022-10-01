@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>bgaregga</setname>
-  <name>Battle Garegga (Europe ~ USA ~ Japan ~ Asia, Sat Feb 3 1996)</name>
+  <setname>bgareggz</setname>
+  <name>Battle Garegga (Zakk version)</name>
   <region>Europe,USA,Japan,Asia</region>
   <version>Sat Feb 3 1996</version>
   <alternative>no</alternative>
   <parent_title>Battle Garegga</parent_title>
   <platform>Toaplan Version 2</platform>
   <series>Battle Garegga</series>
-  <homebrew>no</homebrew>
+  <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
   <year>1996</year>
-  <manufacturer>Raizing,Eighting</manufacturer>
+  <manufacturer>Zakk4223</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (ccw)</rotation>
   <flip>yes</flip>

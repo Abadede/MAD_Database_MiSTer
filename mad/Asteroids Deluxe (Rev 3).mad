@@ -1,5 +1,5 @@
 <misterarcadedescription>
-  <setname>astdeluxe</setname>
+  <setname>astdelux</setname>
   <name>Asteroids Deluxe (Rev 3)</name>
   <region/>
   <version>Rev 3</version>
@@ -16,7 +16,7 @@
   <flip>no</flip>
   <resolution>31kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>8-way</move_inputs>
+  <move_inputs>Buttons only</move_inputs>
   <special_controls/>
-  <num_buttons>3</num_buttons>
+  <num_buttons>5</num_buttons>
 </misterarcadedescription>

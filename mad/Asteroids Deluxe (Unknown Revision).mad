@@ -16,7 +16,7 @@
   <flip>no</flip>
   <resolution>31kHz</resolution>
   <players>1</players>
-  <move_inputs>Only buttons</move_inputs>
+  <move_inputs>Buttons only</move_inputs>
   <special_controls/>
   <num_buttons>5</num_buttons>
 </misterarcadedescription>

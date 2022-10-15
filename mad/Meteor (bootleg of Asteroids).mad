@@ -11,12 +11,12 @@
   <bootleg>yes</bootleg>
   <year>1979</year>
   <manufacturer>bootleg</manufacturer>
-  <category/>
   <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
   <flip>no</flip>
-  <resolution/>
+  <resolution>31kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>Only buttons</move_inputs>
+  <move_inputs>Buttons only</move_inputs>
   <special_controls/>
   <num_buttons>5</num_buttons>
 </misterarcadedescription>

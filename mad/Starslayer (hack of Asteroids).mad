@@ -1,22 +1,22 @@
 <misterarcadedescription>
   <setname>starslayer</setname>
-  <name>Starslayer (Asteroids) [hb]</name>
+  <name>Starslayer (hack of Asteroids)</name>
   <region/>
-  <version>Asteroids</version>
+  <version>Rev 2</version>
   <alternative>yes</alternative>
   <parent_title>Asteroids</parent_title>
   <platform/>
-  <series/>
+  <series>Asteroids</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
   <year>1979</year>
-  <manufacturer>Atari</manufacturer>
+  <manufacturer>Nufekop</manufacturer>
   <category>Shooter - Multidirectional</category>
   <rotation>horizontal</rotation>
   <flip>no</flip>
   <resolution>31kHz</resolution>
   <players>1</players>
-  <move_inputs>2-way horizontal</move_inputs>
+  <move_inputs>Buttons only</move_inputs>
   <special_controls/>
-  <num_buttons>3</num_buttons>
+  <num_buttons>5</num_buttons>
 </misterarcadedescription>

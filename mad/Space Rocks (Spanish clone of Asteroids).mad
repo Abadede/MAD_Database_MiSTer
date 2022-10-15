@@ -10,13 +10,13 @@
   <homebrew>no</homebrew>
   <bootleg>yes</bootleg>
   <year>1981</year>
-  <manufacturer>Atari (J.Estevez license)</manufacturer>
+  <manufacturer>J.Estevez,Atari</manufacturer>
   <category>Shooter - Multidirectional</category>
   <rotation>horizontal</rotation>
   <flip>no</flip>
   <resolution>31kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>Only buttons</move_inputs>
+  <move_inputs>Buttons only</move_inputs>
   <special_controls/>
   <num_buttons>5</num_buttons>
 </misterarcadedescription>

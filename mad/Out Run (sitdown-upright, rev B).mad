@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>outrun</setname>
+  <name>Out Run (sitdown-upright, rev B)</name>
+  <region/>
+  <version>Sitdown/upright, rev B</version>
+  <alternative>no</alternative>
+  <parent_title/>
+  <platform/>
+  <series>Out Run</series>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1986</year>
+  <manufacturer>Sega</manufacturer>
+  <category>Racing</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>1</players>
+  <move_inputs/>
+  <special_controls>paddle</special_controls>
+  <num_buttons>1</num_buttons>
+</misterarcadedescription>

@@ -1,9 +1,9 @@
 <misterarcadedescription>
-  <setname>troangel</setname>
-  <name>Tropical Angel</name>
+  <setname>newtangl</setname>
+  <name>New Tropical Angel</name>
   <region/>
   <version/>
-  <alternative>no</alternative>
+  <alternative>yes</alternative>
   <parent_title>Tropical Angel</parent_title>
   <platform/>
   <series/>

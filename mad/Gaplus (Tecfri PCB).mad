@@ -8,9 +8,9 @@
   <platform/>
   <series>Galaxian</series>
   <homebrew>no</homebrew>
-  <bootleg>no</bootleg>
+  <bootleg>yes</bootleg>
   <year>1984</year>
-  <manufacturer>Namco</manufacturer>
+  <manufacturer>bootleg (Tecfri)</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

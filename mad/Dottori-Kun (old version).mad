@@ -1,11 +1,11 @@
 <misterarcadedescription>
-  <setname>dotrikun</setname>
-  <name>Dottori-Kun (New)</name>
+  <setname>dotrikun2</setname>
+  <name>Dottori-Kun (old version)</name>
   <region/>
-  <version>New</version>
-  <alternative>no</alternative>
+  <version>Old version</version>
+  <alternative>yes</alternative>
   <parent_title>Dottori-Kun</parent_title>
-  <platform>Dottori-Kun</platform>
+  <platform>SEGA Dottori-Kun</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>

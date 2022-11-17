@@ -1,15 +1,15 @@
 <misterarcadedescription>
-  <setname>dotrikun</setname>
-  <name>Dottori-Man Jr [hb]</name>
+  <setname>dotriman</setname>
+  <name>Dottori-Man Jr.</name>
   <region/>
-  <version/>
+  <version>Dottori-Man Jr.</version>
   <alternative>no</alternative>
-  <parent_title>Dottori-Man Jr</parent_title>
-  <platform>Dottori-Kun</platform>
+  <parent_title>Dottori-Man Jr.</parent_title>
+  <platform>SEGA Dottori-Kun</platform>
   <series/>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1990</year>
+  <year>2016</year>
   <manufacturer>Chris Covell</manufacturer>
   <category>Maze</category>
   <rotation>horizontal</rotation>

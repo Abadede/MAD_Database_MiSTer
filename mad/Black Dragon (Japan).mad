@@ -1,14 +1,14 @@
 <misterarcadedescription>
-  <setname>blktiger</setname>
-  <name>Black Tiger - Black Dragon (Mixed) [bl]</name>
-  <region/>
-  <version>Mixed</version>
+  <setname>blkdrgon</setname>
+  <name>Black Dragon (Japan)</name>
+  <region>Japan</region>
+  <version/>
   <alternative>yes</alternative>
   <parent_title>Black Tiger</parent_title>
   <platform>Capcom CPS-0</platform>
   <series/>
   <homebrew>no</homebrew>
-  <bootleg>yes</bootleg>
+  <bootleg>no</bootleg>
   <year>1987</year>
   <manufacturer>Capcom</manufacturer>
   <category>Platform</category>

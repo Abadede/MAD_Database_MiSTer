@@ -1,6 +1,6 @@
 <misterarcadedescription>
-  <setname>blktiger</setname>
-  <name>Black Dragon [bl]</name>
+  <setname>blkdrgonb</setname>
+  <name>Black Dragon (bootleg)</name>
   <region/>
   <version/>
   <alternative>yes</alternative>
@@ -10,7 +10,7 @@
   <homebrew>no</homebrew>
   <bootleg>yes</bootleg>
   <year>1987</year>
-  <manufacturer>Capcom</manufacturer>
+  <manufacturer>bootleg</manufacturer>
   <category>Platform</category>
   <rotation>horizontal</rotation>
   <flip>yes</flip>

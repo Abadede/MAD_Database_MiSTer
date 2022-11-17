@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>gatsbee</setname>
-  <name>Gatsbee</name>
+  <setname>galagads</setname>
+  <name>Galaga (Fast Shoot hack)</name>
   <region/>
-  <version/>
+  <version>Fast Shoot</version>
   <alternative>yes</alternative>
   <parent_title>Galaga</parent_title>
   <platform>Namco Galaga</platform>
   <series>Galaxian</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1984</year>
-  <manufacturer>Uchida</manufacturer>
+  <year>1981</year>
+  <manufacturer>hack</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
-  <flip>no</flip>
+  <flip>yes</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>8-way</move_inputs>
+  <move_inputs>2-way horizontal</move_inputs>
   <special_controls/>
   <num_buttons>1</num_buttons>
 </misterarcadedescription>

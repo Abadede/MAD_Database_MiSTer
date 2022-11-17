@@ -1,19 +1,19 @@
 <misterarcadedescription>
-  <setname>vgalagam</setname>
-  <name>Vector Galaga (Midway) [hb]</name>
+  <setname>galagosb</setname>
+  <name>Galaga Ghost (set 2)</name>
   <region/>
-  <version>Midway</version>
+  <version>Set 2</version>
   <alternative>yes</alternative>
   <parent_title>Galaga</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Galaxian</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1981</year>
-  <manufacturer>Namco,Midway</manufacturer>
+  <year>2002</year>
+  <manufacturer>Twisty</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
-  <flip>no</flip>
+  <flip>yes</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>2-way horizontal</move_inputs>

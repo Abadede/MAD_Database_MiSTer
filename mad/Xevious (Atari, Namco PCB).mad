@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>xevious3</setname>
-  <name>Xevious 2003 [hb]</name>
+  <setname>xeviousc</setname>
+  <name>Xevious (Atari, Namco PCB)</name>
   <region/>
-  <version/>
+  <version>Atari, Namco PCB</version>
   <alternative>yes</alternative>
   <parent_title>Xevious</parent_title>
-  <platform/>
-  <series/>
-  <homebrew>yes</homebrew>
+  <platform>Namco Galaga</platform>
+  <series>Xevious</series>
+  <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1982</year>
-  <manufacturer>Namco</manufacturer>
+  <manufacturer>Namco,Atari</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

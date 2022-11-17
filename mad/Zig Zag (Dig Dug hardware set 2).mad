@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>digdugat1</setname>
-  <name>Dig Dug (Atari, Rev 1)</name>
+  <setname>zigzagb2</setname>
+  <name>Zig Zag (Dig Dug hardware set 2)</name>
   <region/>
-  <version>Atari, Rev 1</version>
+  <version>Set 2</version>
   <alternative>yes</alternative>
   <parent_title>Dig Dug</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Dig Dug</series>
   <homebrew>no</homebrew>
-  <bootleg>no</bootleg>
+  <bootleg>yes</bootleg>
   <year>1982</year>
-  <manufacturer>Namco</manufacturer>
+  <manufacturer>bootleg</manufacturer>
   <category>Maze</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

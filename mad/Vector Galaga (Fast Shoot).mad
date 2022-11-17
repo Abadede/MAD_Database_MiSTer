@@ -1,19 +1,19 @@
 <misterarcadedescription>
-  <setname>galaped</setname>
-  <name>Galapede (Fast Shoot) [hb]</name>
+  <setname>vgalagaf</setname>
+  <name>Vector Galaga (Fast Shoot)</name>
   <region/>
   <version>Fast Shoot</version>
   <alternative>yes</alternative>
   <parent_title>Galaga</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Galaxian</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1980</year>
-  <manufacturer>Namco,Midway</manufacturer>
+  <year>2000</year>
+  <manufacturer>hack</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
-  <flip>yes</flip>
+  <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>2-way horizontal</move_inputs>

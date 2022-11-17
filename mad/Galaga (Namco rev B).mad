@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>vgalaga</setname>
-  <name>Vector Galaga [hb]</name>
+  <setname>galaga</setname>
+  <name>Galaga (Namco rev B)</name>
   <region/>
-  <version/>
-  <alternative>yes</alternative>
+  <version>Namco rev B</version>
+  <alternative>no</alternative>
   <parent_title>Galaga</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Galaxian</series>
-  <homebrew>yes</homebrew>
+  <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1981</year>
-  <manufacturer>Namco,Midway</manufacturer>
+  <manufacturer>Namco</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

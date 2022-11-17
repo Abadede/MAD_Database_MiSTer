@@ -1,16 +1,16 @@
 <misterarcadedescription>
   <setname>xeviblk</setname>
-  <name>Xevious Black [hb]</name>
+  <name>Xevious Black</name>
   <region/>
   <version/>
   <alternative>yes</alternative>
   <parent_title>Xevious</parent_title>
-  <platform/>
-  <series/>
+  <platform>Namco Galaga</platform>
+  <series>Xevious</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1982</year>
-  <manufacturer>Namco</manufacturer>
+  <year>2004</year>
+  <manufacturer>hack</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

@@ -1,19 +1,19 @@
 <misterarcadedescription>
-  <setname>galgaxin</setname>
-  <name>Galagalaxian [hb]</name>
+  <setname>galagamf</setname>
+  <name>Galaga (Midway set 1 with fast shoot hack)</name>
   <region/>
-  <version/>
+  <version>Midway set 1 with fast shoot hack)</version>
   <alternative>yes</alternative>
   <parent_title>Galaga</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Galaxian</series>
-  <homebrew>yes</homebrew>
+  <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1979</year>
+  <year>1981</year>
   <manufacturer>Namco,Midway</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
-  <flip>yes</flip>
+  <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>2-way horizontal</move_inputs>

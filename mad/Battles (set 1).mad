@@ -1,8 +1,8 @@
 <misterarcadedescription>
-  <setname>xevios</setname>
-  <name>Xevios</name>
+  <setname>battles</setname>
+  <name>Battles (set 1)</name>
   <region/>
-  <version/>
+  <version>Set 1</version>
   <alternative>yes</alternative>
   <parent_title>Xevious</parent_title>
   <platform>Namco Galaga</platform>

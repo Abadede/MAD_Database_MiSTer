@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>xevios</setname>
-  <name>Xevios</name>
+  <setname>nebulbee</setname>
+  <name>Nebulous Bee</name>
   <region/>
   <version/>
   <alternative>yes</alternative>
-  <parent_title>Xevious</parent_title>
+  <parent_title>Galaga</parent_title>
   <platform>Namco Galaga</platform>
-  <series>Xevious</series>
+  <series>Galaxian</series>
   <homebrew>no</homebrew>
   <bootleg>yes</bootleg>
-  <year>1982</year>
+  <year>1981</year>
   <manufacturer>bootleg</manufacturer>
-  <category>Shooter - Vertical</category>
+  <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>8-way</move_inputs>
+  <move_inputs>2-way</move_inputs>
   <special_controls/>
-  <num_buttons>2</num_buttons>
+  <num_buttons>1</num_buttons>
 </misterarcadedescription>

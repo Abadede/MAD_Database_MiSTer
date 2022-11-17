@@ -5,12 +5,12 @@
   <version>Sidam</version>
   <alternative>yes</alternative>
   <parent_title>Dig Dug</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Dig Dug</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1982</year>
-  <manufacturer>Namco</manufacturer>
+  <manufacturer>Namco,Sidam</manufacturer>
   <category>Maze</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

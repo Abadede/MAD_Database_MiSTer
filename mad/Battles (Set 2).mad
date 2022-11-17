@@ -5,8 +5,8 @@
   <version>Set 2</version>
   <alternative>yes</alternative>
   <parent_title>Xevious</parent_title>
-  <platform/>
-  <series/>
+  <platform>Namco Galaga</platform>
+  <series>Xevious</series>
   <homebrew>no</homebrew>
   <bootleg>yes</bootleg>
   <year>1982</year>

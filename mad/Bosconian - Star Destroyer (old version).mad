@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>galagao</setname>
-  <name>Galaga (Namco)</name>
-  <region/>
-  <version>Namco</version>
+  <setname>boscoo</setname>
+  <name>Bosconian - Star Destroyer (old version)</name>
+  <region>Japan</region>
+  <version>Old version</version>
   <alternative>yes</alternative>
-  <parent_title>Galaga</parent_title>
+  <parent_title>Bosconian</parent_title>
   <platform>Namco Galaga</platform>
-  <series>Galaxian</series>
+  <series>Bosconian</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1981</year>
   <manufacturer>Namco</manufacturer>
-  <category>Shooter - Gallery</category>
-  <rotation>vertical (cw)</rotation>
+  <category>Shooter - Multidirectional</category>
+  <rotation>horizontal</rotation>
   <flip>no</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
-  <move_inputs>2-way horizontal</move_inputs>
+  <move_inputs>8-way</move_inputs>
   <special_controls/>
   <num_buttons>1</num_buttons>
 </misterarcadedescription>

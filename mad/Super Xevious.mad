@@ -1,15 +1,15 @@
 <misterarcadedescription>
-  <setname>xevious4</setname>
-  <name>Xevious 2004 [hb]</name>
+  <setname>sxevious</setname>
+  <name>Super Xevious</name>
   <region/>
   <version/>
-  <alternative>yes</alternative>
-  <parent_title>Xevious</parent_title>
-  <platform/>
-  <series/>
-  <homebrew>yes</homebrew>
+  <alternative>no</alternative>
+  <parent_title>Super Xevious</parent_title>
+  <platform>Namco Galaga</platform>
+  <series>Xevious</series>
+  <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1982</year>
+  <year>1984</year>
   <manufacturer>Namco</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>

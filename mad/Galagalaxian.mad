@@ -1,19 +1,19 @@
 <misterarcadedescription>
-  <setname>vgalagaf</setname>
-  <name>Vector Galaga (Fast Shoot) [hb]</name>
+  <setname>galgaxin</setname>
+  <name>Galagalaxian</name>
   <region/>
-  <version>Fast Shoot</version>
+  <version/>
   <alternative>yes</alternative>
   <parent_title>Galaga</parent_title>
-  <platform/>
+  <platform>Namco Galaga</platform>
   <series>Galaxian</series>
   <homebrew>yes</homebrew>
   <bootleg>no</bootleg>
-  <year>1981</year>
-  <manufacturer>Namco,Midway</manufacturer>
+  <year>1998</year>
+  <manufacturer>T-Bone</manufacturer>
   <category>Shooter - Gallery</category>
   <rotation>vertical (cw)</rotation>
-  <flip>no</flip>
+  <flip>yes</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>2-way horizontal</move_inputs>

@@ -1,16 +1,16 @@
 <misterarcadedescription>
-  <setname>gaous</setname>
-  <name>Gaous [hb]</name>
+  <setname>xeviousa</setname>
+  <name>Xevious (Atari, harder)</name>
   <region/>
-  <version/>
+  <version>Atari, harder</version>
   <alternative>yes</alternative>
   <parent_title>Xevious</parent_title>
-  <platform/>
-  <series/>
-  <homebrew>yes</homebrew>
+  <platform>Namco Galaga</platform>
+  <series>Xevious</series>
+  <homebrew>no</homebrew>
   <bootleg>no</bootleg>
   <year>1982</year>
-  <manufacturer>Namco</manufacturer>
+  <manufacturer>Namco,Atari</manufacturer>
   <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>
   <flip>no</flip>

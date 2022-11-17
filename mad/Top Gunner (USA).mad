@@ -1,11 +1,11 @@
 <misterarcadedescription>
-  <setname>jackalj</setname>
-  <name>Tokushu Butai Jackal (JP)</name>
-  <region>Japan</region>
+  <setname>topgunr</setname>
+  <name>Top Gunner (USA)</name>
+  <region>USA</region>
   <version/>
   <alternative>yes</alternative>
   <parent_title>Jackal</parent_title>
-  <platform/>
+  <platform>Konami Double Dribble</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>

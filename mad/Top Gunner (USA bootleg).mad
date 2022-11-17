@@ -1,14 +1,14 @@
 <misterarcadedescription>
-  <setname>jackalr</setname>
-  <name>Jackal (W, Rotary)</name>
-  <region>World</region>
-  <version>Rotary</version>
+  <setname>topgunbl</setname>
+  <name>Top Gunner (USA bootleg)</name>
+  <region>USA</region>
+  <version/>
   <alternative>yes</alternative>
   <parent_title>Jackal</parent_title>
-  <platform/>
+  <platform>Konami Double Dribble</platform>
   <series/>
   <homebrew>no</homebrew>
-  <bootleg>no</bootleg>
+  <bootleg>yes</bootleg>
   <year>1986</year>
   <manufacturer>Konami</manufacturer>
   <category>Shooter - Multidirectional</category>
@@ -17,6 +17,6 @@
   <resolution>15kHz</resolution>
   <players>2 (simultaneous)</players>
   <move_inputs>8-way</move_inputs>
-  <special_controls>rotary</special_controls>
-  <num_buttons>4</num_buttons>
+  <special_controls/>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

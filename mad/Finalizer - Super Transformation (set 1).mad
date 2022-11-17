@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>ironhors</setname>
-  <name>Iron Horse (ver. K)</name>
+  <setname>finalizr</setname>
+  <name>Finalizer: Super Transformation (set 1)</name>
   <region/>
-  <version>K</version>
+  <version>Set 1</version>
   <alternative>no</alternative>
-  <parent_title>Iron Horse</parent_title>
+  <parent_title>Finalizer</parent_title>
   <platform>Konami Double Dribble</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1986</year>
+  <year>1985</year>
   <manufacturer>Konami</manufacturer>
-  <category>Run 'n' Gun - Horizontal</category>
-  <rotation>horizontal</rotation>
+  <category>Shooter - Vertical</category>
+  <rotation>vertical (cw)</rotation>
   <flip>yes</flip>
   <resolution>15kHz</resolution>
   <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
-  <num_buttons>3</num_buttons>
+  <num_buttons>2</num_buttons>
 </misterarcadedescription>

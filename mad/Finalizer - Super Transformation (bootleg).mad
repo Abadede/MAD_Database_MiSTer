@@ -1,21 +1,21 @@
 <misterarcadedescription>
-  <setname>topgunbl</setname>
-  <name>Top Gunner (US) [bl]</name>
-  <region>USA</region>
+  <setname>finalizrb</setname>
+  <name>Finalizer: Super Transformation (bootleg)</name>
+  <region/>
   <version/>
   <alternative>yes</alternative>
-  <parent_title>Jackal</parent_title>
-  <platform/>
+  <parent_title>Finalizer</parent_title>
+  <platform>Konami Double Dribble</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>yes</bootleg>
-  <year>1986</year>
-  <manufacturer>Konami</manufacturer>
-  <category>Shooter - Multidirectional</category>
+  <year>1985</year>
+  <manufacturer>bootleg</manufacturer>
+  <category>Shooter - Vertical</category>
   <rotation>vertical (cw)</rotation>
   <flip>yes</flip>
   <resolution>15kHz</resolution>
-  <players>2 (simultaneous)</players>
+  <players>2 (alternating)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
   <num_buttons>2</num_buttons>

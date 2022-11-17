@@ -1,11 +1,11 @@
 <misterarcadedescription>
-  <setname>jackal</setname>
-  <name>Jackal (W)</name>
+  <setname>jackalr</setname>
+  <name>Jackal (World, Rotary Joystick)</name>
   <region>World</region>
-  <version/>
+  <version>Rotary Joystick</version>
   <alternative>yes</alternative>
   <parent_title>Jackal</parent_title>
-  <platform/>
+  <platform>Konami Double Dribble</platform>
   <series/>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
@@ -17,6 +17,6 @@
   <resolution>15kHz</resolution>
   <players>2 (simultaneous)</players>
   <move_inputs>8-way</move_inputs>
-  <special_controls/>
+  <special_controls>rotary</special_controls>
   <num_buttons>2</num_buttons>
 </misterarcadedescription>

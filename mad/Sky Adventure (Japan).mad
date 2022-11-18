@@ -1,22 +1,22 @@
 <misterarcadedescription>
-  <setname>gpilotsp</setname>
-  <name>Ghost Pilots (prototype)</name>
-  <region/>
+  <setname>skyadvntj</setname>
+  <name>Sky Adventure (Japan)</name>
+  <region>Japan</region>
   <version/>
   <alternative>yes</alternative>
-  <parent_title>Ghost Pilots</parent_title>
-  <platform>SNK Neo-Geo</platform>
+  <parent_title>Sky Adventure</parent_title>
+  <platform>SNK Alpha 68000</platform>
   <series>Sky Adventure</series>
   <homebrew>no</homebrew>
   <bootleg>no</bootleg>
-  <year>1991</year>
-  <manufacturer>SNK</manufacturer>
+  <year>1989</year>
+  <manufacturer>Alpha Denshi</manufacturer>
   <category>Shooter - Vertical</category>
-  <rotation>horizontal</rotation>
-  <flip>no</flip>
+  <rotation>vertical (cw)</rotation>
+  <flip>yes</flip>
   <resolution>15kHz</resolution>
   <players>2 (simultaneous)</players>
   <move_inputs>8-way</move_inputs>
   <special_controls/>
-  <num_buttons>2</num_buttons>
+  <num_buttons>3</num_buttons>
 </misterarcadedescription>

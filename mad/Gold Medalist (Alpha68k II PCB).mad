@@ -1,0 +1,22 @@
+<misterarcadedescription>
+  <setname>goldmedl</setname>
+  <name>Gold Medalist (Alpha68k II PCB)</name>
+  <region/>
+  <version>Alpha68k II PCB</version>
+  <alternative>no</alternative>
+  <parent_title>Gold Medalist</parent_title>
+  <platform>SNK Alpha 68000</platform>
+  <series/>
+  <homebrew>no</homebrew>
+  <bootleg>no</bootleg>
+  <year>1988</year>
+  <manufacturer>SNK</manufacturer>
+  <category>Sports</category>
+  <rotation>horizontal</rotation>
+  <flip>no</flip>
+  <resolution>15kHz</resolution>
+  <players>4 (simultaneous)</players>
+  <move_inputs>Only buttons</move_inputs>
+  <special_controls/>
+  <num_buttons>3</num_buttons>
+</misterarcadedescription>

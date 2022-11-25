@@ -1,0 +1,32 @@
+: mad/Computer Space.mad, mad/Pacmanic Miner.mad, mad/Space Race.mad
+arkanoid: mad/Arkanoid (Unl. Lives, slower) [hb].mad, mad/Arkanoid (World, older).mad
+contra1: mad/Contra (US, Set 2).mad, mad/Contra (US-AS, Set 2).mad
+contrabj: mad/Contra (Japan 1) [bl].mad, mad/Contra (Japan, Set 1) [bl].mad
+contrabj1: mad/Contra (Japan 2) [bl].mad, mad/Contra (Japan, Set 2) [bl].mad
+contrae: mad/Contra (US, Set 3).mad, mad/Contra (US-AS, Set 3).mad
+contraj: mad/Contra (Japan 1).mad, mad/Contra (JP, Set 1).mad
+contraj1: mad/Contra (Japan 2).mad, mad/Contra (JP, Set 2).mad
+darkplnt: mad/Dark Planet (no bkg).mad, mad/Dark Planet.mad
+ddragon2: mad/Double Dragon II - The Revenge (USA).mad, mad/Double Dragon II - The Revenge (World).mad
+frogger: mad/Frogger (Konami Bugfixed).mad, mad/Frogger (Sega, Set 2).mad
+gardia: mad/Gardia (317-0006).mad, mad/Gardia (Japanese, 317-0006).mad
+ghouls: mad/Ghouls 'n Ghosts (World).mad, mad/Ghouls 'n Ghosts (World, patched).mad
+gorf: mad/Gorf (Program 1).mad, mad/Gorf (Speech).mad, mad/Gorf.mad
+lwings: mad/Legendary Wings (USA set 1).mad, mad/Legendary Wings.mad
+megaman: mad/Mega Man - The Power Battle (CPS1, USA 951006).mad, mad/Mega Man - The Power Battle (CPS1.5 Qsound) [hb].mad
+pitfall2: mad/Pitfall II - The Lost Canvas (Japan) [315-5093].mad, mad/Pitfall II.mad
+progearj: mad/Progear no Arashi (Japan 010117).mad, mad/Progear Red Label - Halfway to Hell (JP, 160117).mad
+radarscp: mad/Radar Scope (rev. D).mad, mad/Radar Scope.mad
+raflesia: mad/Rafflesia (315-5162).mad, mad/Rafflesia (Japan) (315-5162).mad
+regulus: mad/Regulus (315-5033, Rev A).mad, mad/Regulus (Rev A., Japan) [315-5033].mad
+seganinj: mad/Sega Ninja (315-5102).mad, mad/Sega Ninja (US) (315-5102).mad
+shinobi: mad/Shinobi (W, S16B Set 5).mad, mad/Shinobi (W, Set 6).mad
+spatter: mad/Spatter (315-5xxx).mad, mad/Spatter (US) (315-5xxx).mad
+starjack: mad/Star Jacker (Japan) [No Protection].mad, mad/Star Jacker (Sega).mad
+swat: mad/Swat (315-5048).mad, mad/SWAT (Japan) [315-5048].mad
+teddybb: mad/TeddyBoy Blues (315-5115, New Ver).mad, mad/TeddyBoy Blues (Japan, New Ver.) [315-5115].mad
+ufosensib: mad/UFO Senshi Youko Chan [bootleg].mad, mad/UFO Senshi Youko Chan [MC-8123, 317-0064].mad
+upndown: mad/Up'n Down (Japan) [315-5030].mad, mad/Up'n Down.mad
+wboy: mad/Wonder Boy (Set 1, 315-5177).mad, mad/Wonder Boy (Set 1, Japan) [315-5177].mad
+wmatch: mad/Water Match (USA).mad, mad/Water Match.mad
+wow: mad/Wizard of Wor (Speech).mad, mad/Wizard of Wor.mad
